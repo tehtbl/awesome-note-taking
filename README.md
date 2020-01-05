@@ -6,6 +6,11 @@
 
 > TODO: https://github.com/ekalinin/github-markdown-toc
 
+* [<a href="#contents">↑</a> Note-taking](#-note-taking)
+* [<a href="#contents">↑</a> Contributing](#-contributing)
+* [<a href="#contents">↑</a> License](#-license)
+* [TODO](#todo)
+
 ## [↑](#contents) Note-taking
 
 * [Cherrytree](http://www.giuspen.com/cherrytree)
@@ -33,16 +38,7 @@
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## [↑](#contents) Credits
-
-This list was taken partially taken from [i-inteligence's](http://www.i-intelligence.eu) [OSINT Tools and Resources Handbook](http://www.i-intelligence.eu/open-source-intelligence-tools-and-resources-handbook/).
-
-Thanks to our main contributors
-[jivoi EK_](https://github.com/jivoi)
-[spmedia](https://github.com/spmedia)
-
-
-## License
+## [↑](#contents) License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
