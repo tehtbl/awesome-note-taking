@@ -2,16 +2,18 @@
 
 > A curated list of awesome note-taking software.
 
-## 📖 Table of Contents
+
+## 📖 Contents
 
 > TODO: https://github.com/ekalinin/github-markdown-toc
 
-* [<a href="#contents">↑</a> Note-taking](#-note-taking)
-* [<a href="#contents">↑</a> Contributing](#-contributing)
-* [<a href="#contents">↑</a> License](#-license)
-* [TODO](#todo)
+* [Section 1](#-section-1)
+* [Contributing](#-contributing)
+* [License](#-license)
+* [TODO](#-todo)
 
-## [↑](#contents) Note-taking
+
+## [↑](#-contents) Section 1
 
 * [Cherrytree](http://www.giuspen.com/cherrytree)
 * [Evernote](https://www.evernote.com)
@@ -33,12 +35,12 @@
 * [Calculist](https://app.calculist.io/)
 
 
-## [↑](#contents) Contributing
+## [↑](#-contents) Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
-## [↑](#contents) License
+## [↑](#-contents) License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
@@ -46,7 +48,7 @@ To the extent possible under law, tehtbl has waived all copyright and related
 or neighboring rights to this work.
 
 
-## TODO
+## [↑](#-contents) TODO
 
 * https://github.com/sindresorhus/awesome/blob/master/create-list.md
 * https://github.com/sindresorhus/awesome/blob/master/awesome.md
