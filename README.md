@@ -2,16 +2,26 @@
 
 > A curated list of awesome note-taking software.
 
-
 ## 📖 Contents
 
 > TODO: https://github.com/ekalinin/github-markdown-toc
 
+* [Simple](#-simple)
+* [WYSIWYG](#-wysiwyg)
+* [Web-based](#-web-based)
+* [Free](#-free)
 * [Section 1](#-section-1)
 * [Contributing](#-contributing)
 * [License](#-license)
 * [TODO](#-todo)
 
+## [↑](#-contents) Simple
+
+## [↑](#-contents) WYSIWYG
+
+## [↑](#-contents) Web-based
+
+## [↑](#-contents) Free
 
 ## [↑](#-contents) Section 1
 
@@ -34,11 +44,9 @@
 * [wridea](http://wridea.com)
 * [Calculist](https://app.calculist.io/)
 
-
 ## [↑](#-contents) Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## [↑](#-contents) License
 
@@ -46,7 +54,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, tehtbl has waived all copyright and related
 or neighboring rights to this work.
-
 
 ## [↑](#-contents) TODO
 
