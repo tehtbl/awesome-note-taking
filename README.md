@@ -13,7 +13,6 @@
 
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 * [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
-* [Kl1p](http://kl1p.com) - Kl1p is an online notepad which allows you to store any type of plain or rich text.
 * [Laverna](https://laverna.cc) - Simple online editor.
 * [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 * [Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes.
