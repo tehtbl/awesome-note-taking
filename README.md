@@ -11,6 +11,7 @@
 
 ## [↑](#-contents) Free or Open Source
 
+* [CodiMD](https://github.com/hackmdio/codimd) - CodiMD is the free software version of HackMD with reduced features (without book mode).
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 * [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
 * [Laverna](https://laverna.cc) - Simple online editor.
@@ -35,6 +36,7 @@
 
 ## [↑](#-contents) Free and Paid Plans
 
+* [HackMD](https://hackmd.io) - HackMD helps developers write better documents and build active communities with open collaboration.
 * [Evernote](https://www.evernote.com) - An (online) app designed for note-taking, organizing, task management, and archiving of different formats.
 * [inkdrop](https://www.inkdrop.info) - An (online) app for organizing Markdown notes.
 * [Workflowy](https://workflowy.com) - WorkFlowy is a web-based organizational tool to create todo lists, notes, team projects and others.
