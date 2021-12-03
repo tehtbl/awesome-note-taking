@@ -32,7 +32,7 @@
 * [Foam](https://foambubble.github.io/) - VSCode plugin inspired by Roam Research.
 * [Dendron](https://github.com/dendronhq/dendron) - VSCode plugin that uses hierarchical note structure.
 * [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
-
+* [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
 
 ## [↑](#-contents) Free and Paid Plans
 
