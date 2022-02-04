@@ -35,6 +35,7 @@
 * [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
 * [Note-CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability
 * [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository
+* [linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 
 ## [↑](#-contents) Free and Paid Plans
 
