@@ -36,6 +36,7 @@
 * [Note-CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability
 * [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository
 * [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
+* [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 
 ## [↑](#-contents) Free and Paid Plans
 
