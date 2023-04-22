@@ -24,7 +24,7 @@
 * [wridea](http://wridea.com) - web service to organize and improve ideas and notes by sharing with friends and necessary tools.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
-* [Athens](https://github.com/athensresearch/athens) - open-source and local-first alternative to Roam Research.
+* [Athens](https://github.com/athensresearch/athens) - open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
 * [Obsidian](https://obsidian.md/) - Free for personal use app, that works on top of a local folder of plain text Markdown files.
 * [Notable](https://notable.app/) - Free app for simple note taking. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
