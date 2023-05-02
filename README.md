@@ -38,6 +38,7 @@
 * [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
 * [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux.
+* [btw](https://github.com/btw-so/btw) - btw is an open source personal website builder.
 
 ## [↑](#-contents) Free and Paid Plans
 
