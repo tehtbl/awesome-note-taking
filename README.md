@@ -11,6 +11,7 @@
 
 ## [↑](#-contents) Free or Open Source
 
+* [RemNote](https://www.remnote.com) - all-in-one, cross-platform, free-to-use note-taking tool for thinking and learning. Include: backlinks, spaced repetition flashcards, PDF annotation, daily journaling, calendar, tables and more.
 * [CodiMD](https://github.com/hackmdio/codimd) - CodiMD is the free software version of HackMD with reduced features (without book mode).
 * [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 * [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
