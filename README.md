@@ -73,8 +73,8 @@ Key:
 * [Athens](https://github.com/athensresearch/athens) ![stars](https://img.shields.io/github/stars/athensresearch/athens.svg?style=social) - open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
 
 ### Web UI
-* 🤖🔁  [Joplin](https://joplinapp.org/) ![stars](https://img.shields.io/github/stars/laurent22/joplin.svg?style=social) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
-* [Laverna](https://laverna.cc) ![stars](https://img.shields.io/github/stars/Laverna/laverna.svg?style=social) - Simple online editor.
+* 📖🤖🔁  [Joplin](https://joplinapp.org/) ![stars](https://img.shields.io/github/stars/laurent22/joplin.svg?style=social) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
+* 📕 [Laverna](https://laverna.cc) ![stars](https://img.shields.io/github/stars/Laverna/laverna.svg?style=social) - Evernote like note-taking web application with a Markdown editor using indexedDB local storage.
 * 📖 [CodiMD](https://github.com/hackmdio/codimd) ![stars](https://img.shields.io/github/stars/hackmdio/codimd.svg?style=social) - CodiMD is the free software version of HackMD with reduced features (without book mode).
 * 📖 [dokuwiki](https://www.dokuwiki.org/dokuwiki) ![stars](https://img.shields.io/github/stars/dokuwiki/dokuwiki.svg?style=social) a simple to use and highly versatile Open Source wiki software that doesn't require a database.
 * 📕 [hypothes.is](https://hypothes.is/) ![stars](https://img.shields.io/github/stars/hypothesis/h.svg?style=social) - Annotate anything online.
