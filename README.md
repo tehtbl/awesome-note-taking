@@ -29,6 +29,7 @@ Key:
 ## [↑](#contents) Open Source
 ### Desktop
 #### Native GUI
+* 📕 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy.svg?style=social) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux (rust+flutter).
 * 📖 [QOwnNotes](https://www.qownnotes.org/)  ![stars](https://img.shields.io/github/stars/pbek/QOwnNotes.svg?style=social) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
 * 📕 [Cherrytree](http://www.giuspen.com/cherrytree) ![stars](https://img.shields.io/github/stars/giuspen/cherrytree.svg?style=social) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 * 📕 [treesheets](https://github.com/aardappel/treesheets) ![stars](https://img.shields.io/github/stars/aardappel/treesheets.svg?style=social) -  Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
@@ -61,7 +62,6 @@ Key:
 #### Electron
 * [Logseq](https://github.com/logseq/logseq) ![stars](https://img.shields.io/github/stars/logseq/logseq.svg?style=social) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
 * [Trilium notes](https://github.com/zadam/trilium) ![stars](https://img.shields.io/github/stars/zadam/trilium.svg?style=social) - Powerfull app focused on building personal knowledge base. WYSIWYG.
-* [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy.svg?style=social) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux.
 * [Zettlr](https://www.zettlr.com/) ![stars](https://img.shields.io/github/stars/Zettlr/Zettlr.svg?style=social) - Markdown Editor for the 21st century.
 * 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) ![stars](https://img.shields.io/github/stars/standardnotes/app.svg?style=social) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived 
 * [AnyType](https://anytype.io/) ![stars](https://img.shields.io/github/stars/anyproto/anytype-ts.svg?style=social) - Open source local-first electron and phone app for  tasks, notes, and more.
