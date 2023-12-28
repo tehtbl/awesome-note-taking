@@ -65,11 +65,11 @@ Key:
 * [Zettlr](https://www.zettlr.com/) ![stars](https://img.shields.io/github/stars/Zettlr/Zettlr.svg?style=social) - Markdown Editor for the 21st century.
 * 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) ![stars](https://img.shields.io/github/stars/standardnotes/app.svg?style=social) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived 
 * [AnyType](https://anytype.io/) ![stars](https://img.shields.io/github/stars/anyproto/anytype-ts.svg?style=social) - Open source local-first electron and phone app for  tasks, notes, and more.
-* [Notable](https://notable.app/) ![stars](https://img.shields.io/github/stars/notable/notable.svg?style=social) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Bangle.io](https://bangle.io) ![stars](https://img.shields.io/github/stars/bangle-io/bangle-io.svg?style=social) - A free alternative to Notion that takes markdown notes saved right in your computer
 * [Linked](https://github.com/lostdesign/linked) ![stars](https://img.shields.io/github/stars/lostdesign/linked.svg?style=social) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [Calculist](https://calculist.io/) ![stars](https://img.shields.io/github/stars/calculist/calculist.svg?style=social) - the open source thinking tool for problem solvers.
 ---
+* [Notable](https://notable.app/) ![stars](https://img.shields.io/github/stars/notable/notable.svg?style=social) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) ![stars](https://img.shields.io/github/stars/athensresearch/athens.svg?style=social) - open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
 
 ### Web UI
