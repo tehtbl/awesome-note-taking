@@ -41,7 +41,7 @@ Key:
 
 #### CLI
 * 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) ![stars](https://img.shields.io/github/stars/todotxt/todo.txt-cli.svg?style=social) -  A simple and extensible shell script for managing your todo.txt file.
-* 📖 [zk](https://github.com/mickael-menu/zk)![stars](https://img.shields.io/github/stars/mickael-menu/zk.svg?style=social)
+* 📖 [zk](https://github.com/mickael-menu/zk)![stars](https://img.shields.io/github/stars/mickael-menu/zk.svg?style=social) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 * [Note-CLI](https://github.com/yuis-ice/note-cli) ![stars](https://img.shields.io/github/stars/yuis-ice/note-cli.svg?style=social) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 
 #### Editor/IDE Plugins
