@@ -21,11 +21,11 @@
 * [somnote](http://somcloud.com/about/somnote) - Record and save important information, ideas, and moments. Available for multiple platforms.
 * [Squid](http://squidnotes.com) - Android app to take digital handwritten notes for class, work, or fun! Markup PDFs and sign documents.
 * [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - desktop note-taking application for Linux, Windows, and Mac OS X.
-* [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
+* [Zim Deskop Wiki](https://zim-wiki.org/)![stars](https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki.svg?style=social) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
 * [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
-* [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
-* [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
-* [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
+* [QOwnNotes](https://www.qownnotes.org/) ![stars](https://img.shields.io/github/stars/pbek/QOwnNotes.svg?style=social) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
+* [nvpy](https://github.com/cpbotha/nvpy)![stars](https://img.shields.io/github/stars/cpbotha/nvpy.svg?style=social)- Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
+* [CrossLine](https://github.com/rochus-keller/CrossLine)![stars](https://img.shields.io/github/stars/rochus-keller/CrossLine.svg?style=social) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
 * [wridea](http://wridea.com) - web service to organize and improve ideas and notes by sharing with friends and necessary tools.
 * [Calculist](https://calculist.io/) - the open source thinking tool for problem solvers.
 * [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
@@ -43,17 +43,17 @@
 * [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
 * [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux.
-* [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
-* [treesheets](https://github.com/aardappel/treesheets) -  Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
-* [leo](https://leo-editor.github.io/) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
+* [AnyType](https://anytype.io/)![stars](https://img.shields.io/github/stars/anyproto/anytype-ts.svg?style=social) - Open source local-first electron and phone app for  tasks, notes, and more.
+* [treesheets](https://github.com/aardappel/treesheets)![stars](https://img.shields.io/github/stars/aardappel/treesheets.svg?style=social) -  Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
+* [leo](https://leo-editor.github.io/)![stars](https://img.shields.io/github/stars/leo-editor/leo-editor.svg?style=social) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
 * [emacs](https://www.gnu.org/software/emacs/) - An open source, cross-platform, extensible, and customizable text editor.
   * [org-mode](https://orgmode.org/) plain-text markup and major mode for keeping notes, authoring documents, computational notebooks, literate programming, ...
-  * [org-roam](https://www.orgroam.com/) - plain-text personal knowledge management system inspired by roam research.
-  * [deft](https://github.com/jrblevin/deft) - an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity.
+  * [org-roam](https://www.orgroam.com/)![stars](https://img.shields.io/github/stars/org-roam/org-roam.svg?style=social) - plain-text personal knowledge management system inspired by roam research.
+  * [deft](https://github.com/jrblevin/deft)![stars](https://img.shields.io/github/stars/jrblevin/deft.svg?style=social) - an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity.
   * [hyperbole/Koutliner](https://www.gnu.org/software/hyperbole/) - multi-level autonumbered hypertextual outliner
-  * [howm](https://kaorahi.github.io/howm/) - Note-taking tool on Emacs that can be combined with any format.
-  * [org-brain](https://github.com/Kungsgeten/org-brain) - Concept mapping in Emacs using org-mode.
-* [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
+  * [howm](https://kaorahi.github.io/howm/)![stars](https://img.shields.io/github/stars/kaorahi/howm.svg?style=social) - Note-taking tool on Emacs that can be combined with any format.
+  * [org-brain](https://github.com/Kungsgeten/org-brain)![stars](https://img.shields.io/github/stars/Kungsgeten/org-brain.svg?style=social) - Concept mapping in Emacs using org-mode.
+* [vim-wiki](https://github.com/vimwiki/vimwiki)![stars](https://img.shields.io/github/stars/vimwiki/vimwiki.svg?style=social) - A personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
 
 ## [↑](#-contents) Free and Paid Plans
 
