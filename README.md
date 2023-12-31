@@ -1,4 +1,4 @@
-# Awesome Note-Taking [ ![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Note-Taking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome note-taking software.
 
@@ -19,13 +19,14 @@ Key:
 * [Open Source](#open-source)
   * [Native GUI](#native-gui)
   * [CLI](#cli)
-  * [Editor/IDE Plugin](#editor-ide-plugin)
+  * [Editor Plugin](#editor-plugin)
   * [Electron](#electron)
   * [Web UI](#web-ui)
 * [Proprietary](#proprietary)
 
 ## Open Source
 ### Native GUI
+* [ArcGIS location services - Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding & Search API, Routing & Directions API, Demographics & GeoEnrichment API, Data hosting and more.
 * 📕 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ![stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy.svg?style=social) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux (rust+flutter).
 * 📖 [QOwnNotes](https://www.qownnotes.org/)  ![stars](https://img.shields.io/github/stars/pbek/QOwnNotes.svg?style=social) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
 * 📕 [Cherrytree](http://www.giuspen.com/cherrytree) ![stars](https://img.shields.io/github/stars/giuspen/cherrytree.svg?style=social) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
@@ -39,10 +40,10 @@ Key:
 
 ### CLI
 * 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) ![stars](https://img.shields.io/github/stars/todotxt/todo.txt-cli.svg?style=social) -  A simple and extensible shell script for managing your todo.txt file.
-* 📖 [zk](https://github.com/mickael-menu/zk)![stars](https://img.shields.io/github/stars/mickael-menu/zk.svg?style=social) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
-* [Note-CLI](https://github.com/yuis-ice/note-cli) ![stars](https://img.shields.io/github/stars/yuis-ice/note-cli.svg?style=social) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
+* 📖 [zk](https://github.com/mickael-menu/zk) ![stars](https://img.shields.io/github/stars/mickael-menu/zk.svg?style=social) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
+* [Note CLI](https://github.com/yuis-ice/note-cli) ![stars](https://img.shields.io/github/stars/yuis-ice/note-cli.svg?style=social) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 
-### Editor/IDE Plugin
+### Editor Plugin
 * VS Code - Microsoft text editor
   * [Foam](https://foambubble.github.io/) ![stars](https://img.shields.io/github/stars/foambubble/foam.svg?style=social) - VSCode plugin inspired by Roam Research.
   * [Dendron](https://github.com/dendronhq/dendron) ![stars](https://img.shields.io/github/stars/dendronhq/dendron.svg?style=social) - VSCode plugin that uses hierarchical note structure.
@@ -64,7 +65,7 @@ Key:
 * [AnyType](https://anytype.io/) ![stars](https://img.shields.io/github/stars/anyproto/anytype-ts.svg?style=social) - Open source local-first electron and phone app for  tasks, notes, and more.
 * [Bangle.io](https://bangle.io) ![stars](https://img.shields.io/github/stars/bangle-io/bangle-io.svg?style=social) - A free alternative to Notion that takes markdown notes saved right in your computer
 * [Linked](https://github.com/lostdesign/linked) ![stars](https://img.shields.io/github/stars/lostdesign/linked.svg?style=social) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
-* [Calculist](https://calculist.io/) ![stars](https://img.shields.io/github/stars/calculist/calculist.svg?style=social) - the open source thinking tool for problem solvers.
+* [Calculist](https://calculist.io/) ![stars](https://img.shields.io/github/stars/calculist/calculist.svg?style=social) - The open source thinking tool for problem solvers.
 ---
 * [Notable](https://notable.app/) ![stars](https://img.shields.io/github/stars/notable/notable.svg?style=social) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) ![stars](https://img.shields.io/github/stars/athensresearch/athens.svg?style=social) - Open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
@@ -78,7 +79,7 @@ Key:
 * [NattyNote](https://github.com/ahmedelq/NattyNote) ![stars](https://img.shields.io/github/stars/ahmedelq/NattyNote.svg?style=social) -  A free, open-source browser extension to take time-stamped YouTube notes.
 * 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages. 
 ---
-* [Neuron](https://neuron.zettel.page/) ![stars](https://img.shields.io/github/stars/srid/neuron.svg?style=social) - future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceded by Emanote.
+* [Neuron](https://neuron.zettel.page/) ![stars](https://img.shields.io/github/stars/srid/neuron.svg?style=social) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceded by Emanote.
 
 
 
@@ -86,7 +87,7 @@ Key:
 ## Proprietary
 
 * 📖 [Obsidian](https://obsidian.md/) - Free for personal use app, that works on top of a local folder of plain text Markdown files.
-* [Wridea](http://wridea.com) - web service to organize and improve ideas and notes by sharing with friends and necessary tools.
+* [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends and necessary tools.
 * [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
 * [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 * [Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes from Zoho.
