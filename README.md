@@ -2,8 +2,7 @@
 
 > A curated list of awesome note-taking software.
 
-
-Key:
+## Legend
 
   📖 notes are stored in plain text format (e.g. Markdown, org-mode, dokuwiki)
 
@@ -11,9 +10,9 @@ Key:
 
   🤖 Android support or app. Alternatively, see [termux](https://termux.dev/) for CLI (including emacs and vim plugins) on Android devices.
 
- 👍 Recommended. In active use for many years by a pull-request author.
+  👍 Recommended. In active use for many years by a pull-request author.
 
- 🔁 provides multi-device sync. Alternatively, see [syncthing](https://syncthing.net/) or any cloud provider
+  🔁 provides multi-device sync. Alternatively, see [syncthing](https://syncthing.net/) or any cloud provider
 
 ## Contents
 
