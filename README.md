@@ -38,6 +38,7 @@
 * 📕 [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
 * 📖 [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
 * 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
+* 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
 
 ### CLI
 * 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) -  A simple and extensible shell script for managing your todo.txt file.
