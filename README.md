@@ -103,6 +103,7 @@
 * [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 * [TheBrain](https://www.thebrain.com/) - Mind mapping and personal knowledge base software application.
 * [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base.
+* [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
 
 
 ## Contributing
