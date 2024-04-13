@@ -104,7 +104,7 @@
 * [TheBrain](https://www.thebrain.com/) - Mind mapping and personal knowledge base software application.
 * [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base.
 * 📖📕🤖🔁 [Supernotes](https://supernotes.app) – A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
-
+* [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
 
 ## Contributing
 
