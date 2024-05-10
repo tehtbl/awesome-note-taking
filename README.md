@@ -21,6 +21,7 @@
   * [CLI](#cli)
   * [Editor Plugin](#editor-plugin)
   * [Electron](#electron)
+  * [Tauri](#tauri)
   * [Web UI](#web-ui)
 * [Proprietary](#proprietary)
 
@@ -72,6 +73,9 @@
 ---
 * [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
+
+### Tauri
+* 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 
 ### Web UI
 * 📖🤖🔁  [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
