@@ -109,6 +109,7 @@
 * [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base.
 * 📖📕🤖🔁 [Supernotes](https://supernotes.app) – A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
 * [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
+* 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
 
 ## Contributing
 
