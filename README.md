@@ -63,7 +63,7 @@
 
 ### Electron
 * [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
-* [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
+* [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
 * 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived 
 * [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
