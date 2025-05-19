@@ -47,6 +47,9 @@
 * [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 * [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
 
+### TUI
+* 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
+
 ### Editor Plugin
 * Visual Studio Code - Microsoft text editor
   * [Foam](https://foambubble.github.io/) - VSCode plugin inspired by Roam Research.
@@ -63,7 +66,8 @@
 
 ### Electron
 * [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
-* [Trilium notes](https://github.com/zadam/trilium) - Powerfull app focused on building personal knowledge base. WYSIWYG.
+* 📕🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software.
+* [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
 * 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived 
 * [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
@@ -89,6 +93,7 @@
 * 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages. 
 * 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes.
 * 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. 
+* 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
 ---
 * [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
 
