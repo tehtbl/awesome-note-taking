@@ -74,6 +74,8 @@
 * [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
 * [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [Calculist](https://calculist.io/) - The open source thinking tool for problem solvers.
+* 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
+* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 ---
 * [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
@@ -90,6 +92,7 @@
 * [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
 * 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages. 
 * 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes.
+* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. 
 * 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
 ---
 * [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
