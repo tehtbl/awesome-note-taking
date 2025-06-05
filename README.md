@@ -118,6 +118,7 @@
 * 📖📕🤖🔁 [Supernotes](https://supernotes.app) – A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
 * [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
 * 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
+* 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
 
 ## Contributing
 
