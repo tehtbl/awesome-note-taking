@@ -28,7 +28,6 @@
 ## Open Source
 
 ### Native GUI
-* [ArcGIS location services - Postman Workspace](https://www.postman.com/arcgis-developer/workspace/arcgis-location-services) - Official Postman collections to work with the Geocoding & Search API, Routing & Directions API, Demographics & GeoEnrichment API, Data hosting and more.
 * 📕 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux (rust+flutter).
 * 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
 * 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
