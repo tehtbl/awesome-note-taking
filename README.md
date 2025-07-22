@@ -49,6 +49,7 @@
 
 ### TUI
 * 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
+* 📖 [Toney](https://github.com/SourcewareLab/Toney) - Toney is a fast, lightweight, terminal-based note-taking app for the modern developer.
 
 ### Editor Plugin
 * Visual Studio Code - Microsoft text editor
