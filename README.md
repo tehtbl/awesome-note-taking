@@ -4,26 +4,26 @@
 
 ## Legend
 
-  📖 notes are stored in plain text format (e.g. Markdown, org-mode, dokuwiki)
+📖 notes are stored in plain text format (e.g. Markdown, org-mode, dokuwiki)
 
-  📕 notes are stored in a database or otherwise need an export for external use
+📕 notes are stored in a database or otherwise need an export for external use
 
-  🤖 Android support or app. Alternatively, see [termux](https://termux.dev/) for CLI (including emacs and vim plugins) on Android devices.
+🤖 Android support or app. Alternatively, see [termux](https://termux.dev/) for CLI (including emacs and vim plugins) on Android devices.
 
-  👍 Recommended. In active use for many years by a pull-request author.
+👍 Recommended. In active use for many years by a pull-request author.
 
-  🔁 provides multi-device sync. Alternatively, see [syncthing](https://syncthing.net/) or any cloud provider
+🔁 provides multi-device sync. Alternatively, see [syncthing](https://syncthing.net/) or any cloud provider
 
 ## Contents
 
-* [Open Source](#open-source)
-  * [Native GUI](#native-gui)
-  * [CLI](#cli)
-  * [Editor Plugin](#editor-plugin)
-  * [Electron](#electron)
-  * [Tauri](#tauri)
-  * [Web UI](#web-ui)
-* [Proprietary](#proprietary)
+- [Open Source](#open-source)
+  - [Native GUI](#native-gui)
+  - [CLI](#cli)
+  - [Editor Plugin](#editor-plugin)
+  - [Electron](#electron)
+  - [Tauri](#tauri)
+  - [Web UI](#web-ui)
+- [Proprietary](#proprietary)
 
 ## Open Source
 
@@ -32,36 +32,40 @@
 * 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
 * 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
 * 📕 [treesheets](https://github.com/aardappel/treesheets) -  Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
-* 👍 📖 [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
+* 📖 [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
 * 📕 [Leo](https://leo-editor.github.io/) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
 * 🤖🔁  [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS.
 * 📕 [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
 * 📖 [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
 * 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
 * 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
+* [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
 
 ### CLI
-* 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) -  A simple and extensible shell script for managing your todo.txt file.
-* 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
-* [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
-* [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
+
+- 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
+- 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
+- [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
+- [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
 
 ### TUI
-* 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
+
+- 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
 
 ### Editor Plugin
-* Visual Studio Code - Microsoft text editor
-  * [Foam](https://foambubble.github.io/) - VSCode plugin inspired by Roam Research.
-  * [Dendron](https://github.com/dendronhq/dendron) - VSCode plugin that uses hierarchical note structure.
-  * [Emanate](https://github.com/srid/emanote) - A structured view of your plain-text notes. Succesor to neuron.
-* 🤖 [Emacs](https://www.gnu.org/software/emacs/) - An open source, cross-platform, extensible, and customizable text editor.
-  * 📖 [Org-mode](https://orgmode.org/) plain-text markup and major mode for keeping notes, authoring documents, computational notebooks, literate programming, …
-  * 📖 [Org-roam](https://www.orgroam.com/) - plain-text personal knowledge management system inspired by roam research.
-  * 📖 [Org-brain](https://github.com/Kungsgeten/org-brain) - Concept mapping in Emacs using org-mode.
-  * 📖 [Deft](https://github.com/jrblevin/deft) - an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity.
-  * 📖 [Hyperbole/Koutliner](https://www.gnu.org/software/hyperbole/) - multi-level autonumbered hypertextual outliner
-  * 📖 [howm](https://kaorahi.github.io/howm/) - Note-taking tool on Emacs that can be combined with any format.
-* 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
+
+- Visual Studio Code - Microsoft text editor
+  - [Foam](https://foambubble.github.io/) - VSCode plugin inspired by Roam Research.
+  - [Dendron](https://github.com/dendronhq/dendron) - VSCode plugin that uses hierarchical note structure.
+  - [Emanate](https://github.com/srid/emanote) - A structured view of your plain-text notes. Succesor to neuron.
+- 🤖 [Emacs](https://www.gnu.org/software/emacs/) - An open source, cross-platform, extensible, and customizable text editor.
+  - 📖 [Org-mode](https://orgmode.org/) plain-text markup and major mode for keeping notes, authoring documents, computational notebooks, literate programming, …
+  - 📖 [Org-roam](https://www.orgroam.com/) - plain-text personal knowledge management system inspired by roam research.
+  - 📖 [Org-brain](https://github.com/Kungsgeten/org-brain) - Concept mapping in Emacs using org-mode.
+  - 📖 [Deft](https://github.com/jrblevin/deft) - an Emacs mode for quickly browsing, filtering, and editing directories of plain text notes, inspired by Notational Velocity.
+  - 📖 [Hyperbole/Koutliner](https://www.gnu.org/software/hyperbole/) - multi-level autonumbered hypertextual outliner
+  - 📖 [howm](https://kaorahi.github.io/howm/) - Note-taking tool on Emacs that can be combined with any format.
+- 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
 
 ### Electron
 * [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
@@ -76,15 +80,16 @@
 * 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
 * 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
 * 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
----
-* [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. *Important:* Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
-* [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. *Important:* Now abandoned by the author.
+
+- [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
+- [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
 
 ### Tauri
-* 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
+
+- 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 
 ### Web UI
-* 📖🤖🔁  [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
+* 📖🤖🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
 * 📕 [Laverna](https://laverna.cc) - Evernote like note-taking web application with a Markdown editor using indexedDB local storage.
 * 📖 [CodiMD](https://github.com/hackmdio/codimd) - CodiMD is the free software version of HackMD with reduced features (without book mode).
 * 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - a simple to use and highly versatile Open Source wiki software that doesn't require a database.
@@ -95,8 +100,8 @@
 * 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. 
 * 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
 * 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown Paper for daily todo and thoughts. Privacy first, OSS, local-only.
----
-* [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
+
+- [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
 
 ## Proprietary
 
@@ -124,4 +129,3 @@
 ## Contributing
 
 Contributions are very welcome! Please, read the [contribution guidelines](contributing.md) first.
-
