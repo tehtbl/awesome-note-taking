@@ -73,13 +73,13 @@
 * 📕🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software.
 * [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
-* 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived 
+* 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived
 * [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
 * [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
 * [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [Calculist](https://calculist.io/) - The open source thinking tool for problem solvers.
 * 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
-* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 * 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
 
 - [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
@@ -96,9 +96,9 @@
 * 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - a simple to use and highly versatile Open Source wiki software that doesn't require a database.
 * 📕 [Hypothes.is](https://hypothes.is/) - Annotate anything online.
 * [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
-* 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages. 
+* 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages.
 * 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes.
-* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc. 
+* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 * 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
 * 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown Paper for daily todo and thoughts. Privacy first, OSS, local-only.
 
@@ -126,6 +126,8 @@
 * [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
 * 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
 * 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
+* 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
+
 
 ## Contributing
 
