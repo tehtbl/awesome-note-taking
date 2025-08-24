@@ -126,6 +126,7 @@
 * [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
 * 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
 * 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
+* [OktoNote](https://oktonote.app) - An AI first note taking app that lets you fire and forget. It auto organizes your notes for you in beautiful, actionable and searchable cards. Supports text, audio, photos and documents. Perfect for journals, tasks, travel itinerary and tickets, lists, things to remember, bookmarking, study notes, discussion notes etc., Available on Ios for now, launching soon on Android and Web. 
 
 ## Contributing
 
