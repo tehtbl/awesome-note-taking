@@ -41,6 +41,7 @@
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
 - 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
 - [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
+- [Hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings.
 
 ### CLI
 
