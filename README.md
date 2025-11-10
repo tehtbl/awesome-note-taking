@@ -70,66 +70,66 @@
 - 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim -- a number of linked text files that have their own syntax highlighting.
 
 ### Electron
-
-- [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
-- 📕🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software.
-- [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
-- [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
-- 🤖🔁 [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived
-- [AnyType](https://anytype.io/) - Open source local-first electron and phone app for tasks, notes, and more.
-- [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
-- [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
-- [Calculist](https://calculist.io/) - The open source thinking tool for problem solvers.
-- 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
-- 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-- 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
+* [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
+* 📕🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software.
+* [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
+* [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
+* 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived
+* [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
+* [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right in your computer
+* [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
+* [Calculist](https://calculist.io/) - The open source thinking tool for problem solvers.
+* 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
+* 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+* 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
 
 * [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
 
 ### Tauri
 
-- 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
+* 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 
 ### Web UI
-
-- 📖🤖🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
-- 📕 [Laverna](https://laverna.cc) - Evernote like note-taking web application with a Markdown editor using indexedDB local storage.
-- 📖 [CodiMD](https://github.com/hackmdio/codimd) - CodiMD is the free software version of HackMD with reduced features (without book mode).
-- 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - a simple to use and highly versatile Open Source wiki software that doesn't require a database.
-- 📕 [Hypothes.is](https://hypothes.is/) - Annotate anything online.
-- [NattyNote](https://github.com/ahmedelq/NattyNote) - A free, open-source browser extension to take time-stamped YouTube notes.
-- 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages.
-- 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes.
-- 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
-- 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown Paper for daily todo and thoughts. Privacy first, OSS, local-only.
+* 📖🤖🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
+* 📕 [Laverna](https://laverna.cc) - Evernote like note-taking web application with a Markdown editor using indexedDB local storage.
+* 📖 [CodiMD](https://github.com/hackmdio/codimd) - CodiMD is the free software version of HackMD with reduced features (without book mode).
+* 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - a simple to use and highly versatile Open Source wiki software that doesn't require a database.
+* 📕 [Hypothes.is](https://hypothes.is/) - Annotate anything online.
+* [NattyNote](https://github.com/ahmedelq/NattyNote) -  A free, open-source browser extension to take time-stamped YouTube notes.
+* 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) source control software with built-in stand-alone wiki pages.
+* 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes.
+* 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+* 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
+* 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown Paper for daily todo and thoughts. Privacy first, OSS, local-only.
 
 * [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
 
 ## Proprietary
 
-- 📖 [Obsidian](https://obsidian.md/) - Free for personal use app, that works on top of a local folder of plain text Markdown files.
-- [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends and necessary tools.
-- [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
-- [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
-- [Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes from Zoho.
-- [Simplenote](http://simplenote.com) - Available for iOS, Android, macOS, Windows, Linux, and the web and supports Markdown.
-- [Somnote](http://somcloud.com/about/somnote) - Record and save important information, ideas, and moments. Available for multiple platforms.
-- [Squid](http://squidnotes.com) - Android app to take digital handwritten notes for class, work, or fun! Markup PDFs and sign documents.
-- [HackMD](https://hackmd.io) - HackMD helps developers write better documents and build active communities with open collaboration.
-- [Evernote](https://www.evernote.com) - An (online) app designed for note-taking, organizing, task management, and archiving of different formats.
-- [Inkdrop](https://www.inkdrop.info) - An (online) app for organizing Markdown notes.
-- [Workflowy](https://workflowy.com) - WorkFlowy is a web-based organizational tool to create todo lists, notes, team projects and others.
-- [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - macOS or iPhone app with lots of features that can handle many files.
-- [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
-- [TheBrain](https://www.thebrain.com/) - Mind mapping and personal knowledge base software application.
-- [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base.
-- 📖📕🤖🔁 [Supernotes](https://supernotes.app) – A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
-- [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
-- 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
-- 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
-- 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
+* 📖 [Obsidian](https://obsidian.md/) - Free for personal use app, that works on top of a local folder of plain text Markdown files.
+* [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends and necessary tools.
+* [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. It is available on the web and as mobile app.
+* [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
+* [Notebook](https://www.zoho.com/notebook) - Mobile/Web/Desktop app to take multiple forms of notes from Zoho.
+* [Simplenote](http://simplenote.com) - Available for iOS, Android, macOS, Windows, Linux, and the web and supports Markdown.
+* [Somnote](http://somcloud.com/about/somnote) - Record and save important information, ideas, and moments. Available for multiple platforms.
+* [Squid](http://squidnotes.com) - Android app to take digital handwritten notes for class, work, or fun! Markup PDFs and sign documents.
+* [HackMD](https://hackmd.io) - HackMD helps developers write better documents and build active communities with open collaboration.
+* [Evernote](https://www.evernote.com) - An (online) app designed for note-taking, organizing, task management, and archiving of different formats.
+* [Inkdrop](https://www.inkdrop.info) - An (online) app for organizing Markdown notes.
+* [Workflowy](https://workflowy.com) - WorkFlowy is a web-based organizational tool to create todo lists, notes, team projects and others.
+* [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - macOS or iPhone app with lots of features that can handle many files.
+* [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
+* [TheBrain](https://www.thebrain.com/) - Mind mapping and personal knowledge base software application.
+* [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base.
+* 📖📕🤖🔁 [Supernotes](https://supernotes.app) – A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
+* [NotePlan](https://noteplan.co) - NotePlan combines tasks, notes, and calendar - all in one place. It is available on Web, MacOS and iOS.
+* 📕🤖🔁 [JournalCalls](https://journalcalls.com) - Voice journal/note taking over a phone call, exports to markdown and Notion
+* 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
+* [OktoNote](https://oktonote.app) - An AI first note taking app that lets you fire and forget. It auto organizes your notes for you in beautiful, actionable and searchable cards. Supports text, audio, photos and documents. Perfect for journals, tasks, travel itinerary and tickets, lists, things to remember, bookmarking, study notes, discussion notes etc., Available on Ios for now, launching soon on Android and Web. 
+* 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
+* 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
 
 ## Contributing
 
