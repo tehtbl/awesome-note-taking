@@ -28,18 +28,19 @@
 ## Open Source
 
 ### Native GUI
-* 📕 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux (rust+flutter).
-* 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
-* 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
-* 📕 [treesheets](https://github.com/aardappel/treesheets) -  Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
-* 📖 [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
-* 📕 [Leo](https://leo-editor.github.io/) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
-* 🤖🔁  [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS.
-* 📕 [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
-* 📖 [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
-* 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
-* 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
-* [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
+
+- 📕 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux (rust+flutter).
+- 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking native-application with Nextcloud / ownCloud integration.
+- 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app, featuring rich text and syntax highlighting.
+- 📕 [treesheets](https://github.com/aardappel/treesheets) - Free Form Data Organizer using hierarchical spreadsheet. Open source native desktop application.
+- 📖 [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
+- 📕 [Leo](https://leo-editor.github.io/) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
+- 🤖🔁 [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS.
+- 📕 [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
+- 📖 [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
+- 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
+- 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
+- [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
 
 ### CLI
 
@@ -50,8 +51,8 @@
 
 ### TUI
 
-* 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
-* 📖 [Toney](https://github.com/SourcewareLab/Toney) - Toney is a fast, lightweight, terminal-based note-taking app for the modern developer.
+- 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution. Powered by fzf.
+- 📖 [Toney](https://github.com/SourcewareLab/Toney) - Toney is a fast, lightweight, terminal-based note-taking app for the modern developer.
 
 ### Editor Plugin
 
@@ -82,12 +83,12 @@
 * 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 * 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
 
-- [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
-- [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
+* [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
+* [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
 
 ### Tauri
 
-- 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
+* 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 
 ### Web UI
 * 📖🤖🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
@@ -102,7 +103,7 @@
 * 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography
 * 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown Paper for daily todo and thoughts. Privacy first, OSS, local-only.
 
-- [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
+* [Neuron](https://neuron.zettel.page/) - Future-proof open-source app for managing your plain-text notes in Zettelkasten style. Superceeded by Emanote.
 
 ## Proprietary
 
@@ -128,7 +129,7 @@
 * 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
 * [OktoNote](https://oktonote.app) - An AI first note taking app that lets you fire and forget. It auto organizes your notes for you in beautiful, actionable and searchable cards. Supports text, audio, photos and documents. Perfect for journals, tasks, travel itinerary and tickets, lists, things to remember, bookmarking, study notes, discussion notes etc., Available on Ios for now, launching soon on Android and Web. 
 * 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
-
+* 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
 
 ## Contributing
 
