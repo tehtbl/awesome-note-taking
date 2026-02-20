@@ -131,6 +131,7 @@
 * [OktoNote](https://oktonote.app) - An AI first note taking app that lets you fire and forget. It auto organizes your notes for you in beautiful, actionable and searchable cards. Supports text, audio, photos and documents. Perfect for journals, tasks, travel itinerary and tickets, lists, things to remember, bookmarking, study notes, discussion notes etc., Available on Ios for now, launching soon on Android and Web. 
 * 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
 * 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
+* 📕 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
 
 ## Contributing
 
