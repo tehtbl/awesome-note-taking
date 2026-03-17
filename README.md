@@ -41,7 +41,6 @@
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
 - 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
 - [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
-- [Hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings.
 
 ### CLI
 
@@ -90,6 +89,7 @@
 
 ### Tauri
 
+* [Char](https://github.com/fastrepl/char) - Local-first AI notepad for meetings.
 * 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 * 📖 [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
 
