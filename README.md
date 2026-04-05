@@ -36,8 +36,6 @@
 - 📖 [Zim Deskop Wiki](https://zim-wiki.org/) - Open source multi-platform native desktop GUI to manage a collection of local wiki pages.
 - 📕 [Leo](https://leo-editor.github.io/) - PIM, IDE and outliner that accelerates the work flow of programmers, authors and web designers. Open source native desktop app.
 - 🤖🔁 [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS.
-- 📕 [CrossLine](https://github.com/rochus-keller/CrossLine) - An outliner with sophisticated cross-link capabilities in the tradition of the well-respected Ecco Pro.
-- 📖 [nvpy](https://github.com/cpbotha/nvpy) - Open source cross-platform Simplenote syncing Notational Velocity and ResophNotes inspired note-taker.
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
 - 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
 - [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
@@ -47,7 +45,6 @@
 
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file.
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
-- [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 - [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
 
 ### TUI
@@ -59,7 +56,6 @@
 
 - Visual Studio Code - Microsoft text editor
   - [Foam](https://foambubble.github.io/) - VSCode plugin inspired by Roam Research.
-  - [Dendron](https://github.com/dendronhq/dendron) - VSCode plugin that uses hierarchical note structure.
   - [Emanate](https://github.com/srid/emanote) - A structured view of your plain-text notes. Succesor to neuron.
 - 🤖 [Emacs](https://www.gnu.org/software/emacs/) - An open source, cross-platform, extensible, and customizable text editor.
   - 📖 [Org-mode](https://orgmode.org/) plain-text markup and major mode for keeping notes, authoring documents, computational notebooks, literate programming, …
@@ -73,7 +69,6 @@
 ### Electron
 * [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base.
 * 📕🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software.
-* [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A cross-platform personal knowledge base with advanced features. WYSIWYG.
 * [Zettlr](https://www.zettlr.com/) - Markdown Editor for the 21st century.
 * 🤖🔁  [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app. macOS, Windows, & Linux app repository. Archived
 * [AnyType](https://anytype.io/) - Open source local-first electron and phone app for  tasks, notes, and more.
@@ -81,12 +76,10 @@
 * [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure and free. Supports macOS, Windows & Linux.
 * [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - The Open Source Alternative To Notion.Supports macOS, Windows & Linux.
 * [btw](https://github.com/btw-so/btw) - btw is an open source personal website builder.
-* [Calculist](https://calculist.io/) - The open source thinking tool for problem solvers.
 * 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform. A TiddlyWiki app based on TiddlyWiki platfrom.
 * 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 * 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
 * [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
-* [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
 
 ### Tauri
 
