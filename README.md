@@ -134,6 +134,7 @@
 * 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
 * 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
 * 📕 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ## Contributing
 
