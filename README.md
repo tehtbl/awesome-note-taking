@@ -87,6 +87,7 @@
 * 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think.
 * [Notable](https://notable.app/) - Free app for simple note taking based on VS Code Editor. _Important:_ Notable is no longer Open Source as of Sep 28, 2019 (v1.8.4 / [7403a47](https://github.com/notable/notable/commit/7403a47f7602860d227268dda08e3b6f504fd30c))
 * [Athens](https://github.com/athensresearch/athens) - Open-source and local-first alternative to Roam Research. _Important:_ Now abandoned by the author.
+* [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge base compiler. Persistent markdown wiki, knowledge graph, hybrid SQLite FTS + embeddings, contradiction detection, and built-in MCP server.
 
 ### Tauri
 
