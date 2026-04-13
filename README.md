@@ -49,6 +49,7 @@
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 - [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 - [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
+- 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs.
 
 ### TUI
 
