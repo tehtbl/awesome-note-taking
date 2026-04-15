@@ -48,6 +48,7 @@
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki.
 - [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 - [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
+- 📖 [IWE](https://github.com/iwe-org/iwe) - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks, link completion, and code actions. Works with VS Code, Neovim, Zed, and Helix.
 
 ### TUI
 
