@@ -1,6 +1,7 @@
 # Awesome Note-Taking - Project List
 # Format: name|url|category
 # Source: https://github.com/tehtbl/awesome-note-taking
+# Updated: 2026-04-15
 #
 AppFlowy|https://github.com/AppFlowy-IO/AppFlowy|Open Source > Native GUI
 Cherrytree|http://www.giuspen.com/cherrytree|Open Source > Native GUI
@@ -21,16 +22,16 @@ todo-txt|https://github.com/todotxt/todo.txt-cli|Open Source > CLI
 zk|https://github.com/mickael-menu/zk|Open Source > CLI
 FuzPad|https://github.com/JianZcar/FuzPad|Open Source > TUI
 Toney|https://github.com/SourcewareLab/Toney|Open Source > TUI
-Deft|https://github.com/jrblevin/deft|Open Source > Editor Plugin
-Emanote|https://github.com/srid/emanote|Open Source > Editor Plugin
 Emacs|https://www.gnu.org/software/emacs/|Open Source > Editor Plugin
-Foam|https://foambubble.github.io/|Open Source > Editor Plugin
+Deft|https://github.com/jrblevin/deft|Open Source > Editor Plugin
 howm|https://kaorahi.github.io/howm/|Open Source > Editor Plugin
 Hyperbole/Koutliner|https://www.gnu.org/software/hyperbole/|Open Source > Editor Plugin
 Org-brain|https://github.com/Kungsgeten/org-brain|Open Source > Editor Plugin
 Org-mode|https://orgmode.org/|Open Source > Editor Plugin
 Org-roam|https://www.orgroam.com/|Open Source > Editor Plugin
 vim-wiki|https://github.com/vimwiki/vimwiki|Open Source > Editor Plugin
+Emanote|https://github.com/srid/emanote|Open Source > Editor Plugin
+Foam|https://foambubble.github.io/|Open Source > Editor Plugin
 AFFiNE|https://github.com/toeverything/AFFiNE|Open Source > Electron
 AnyType|https://anytype.io/|Open Source > Electron
 Bangle.io|https://bangle.io|Open Source > Electron
@@ -80,9 +81,9 @@ MDLook|https://mdlook.com|Proprietary
 Mem|https://get.mem.ai/|Proprietary
 MindMirror|https://mindmirror.app|Proprietary
 MindWork|https://mindwork.it.com/|Proprietary
-Notion|https://notion.so|Proprietary
-NotePlan|https://noteplan.co|Proprietary
 Notebook|https://www.zoho.com/notebook|Proprietary
+NotePlan|https://noteplan.co|Proprietary
+Notion|https://notion.so|Proprietary
 Obsidian|https://obsidian.md/|Proprietary
 Octarine|https://octarine.app/|Proprietary
 OktoNote|https://oktonote.app|Proprietary

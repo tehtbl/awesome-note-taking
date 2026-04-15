@@ -1,0 +1,15 @@
+# Markdownlint configuration for awesome-list format
+# See: https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md
+
+# MD013: Line length — disabled because awesome-list entries can be long
+MD013: false
+
+# MD033: Inline HTML — disabled to allow badge divs and back-to-top links
+MD033: false
+
+# MD041: First line should be top-level heading — disabled because we use a div header
+MD041: false
+
+# MD007: Unordered list indentation — allow 2-space indentation for nested editor plugins
+MD007:
+  indent: 2

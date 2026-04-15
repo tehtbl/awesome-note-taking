@@ -38,11 +38,14 @@
 - [Open Source](#open-source)
   - [Native GUI](#native-gui)
   - [CLI](#cli)
+  - [TUI](#tui)
   - [Editor Plugin](#editor-plugin)
   - [Electron](#electron)
   - [Tauri](#tauri)
   - [Web UI](#web-ui)
 - [Proprietary](#proprietary)
+- [Quick Comparison](#quick-comparison)
+- [Contributing](#contributing)
 
 ## Open Source
 
