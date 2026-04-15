@@ -169,6 +169,30 @@
 - 📕🍎🤖🔁 [Workflowy](https://workflowy.com) - Web-based organizational tool to create todo lists, notes, team projects, and more.
 - ⚠️ [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends. Website appears dead.
 
+## Quick Comparison
+
+A side-by-side overview of the most popular tools to help you choose:
+
+| Tool | Type | Storage | Sync | E2EE | Platforms | Plugins | Price |
+|------|------|---------|------|------|-----------|---------|-------|
+| [Obsidian](https://obsidian.md/) | PKM | Markdown | paid add-on | optional | Win/Mac/Linux/iOS/Android | 1800+ | Freemium |
+| [Joplin](https://joplinapp.org/) | Notes | Markdown | yes | yes | Win/Mac/Linux/iOS/Android/CLI | yes | Free |
+| [Logseq](https://github.com/logseq/logseq) | PKM/Outliner | Markdown | yes | — | Win/Mac/Linux/iOS/Android | yes | Free |
+| [SiYuan](https://github.com/siyuan-note/siyuan) | PKM | Database | yes | — | Win/Mac/Linux/iOS/Android/Web | yes | Freemium |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | Workspace | Database | yes | — | Win/Mac/Linux/Web | yes | Freemium |
+| [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Workspace | Database | yes | — | Win/Mac/Linux/iOS/Android | yes | Free |
+| [Standard Notes](https://github.com/standardnotes/app) | Notes | Encrypted | yes | yes | Win/Mac/Linux/iOS/Android/Web | yes | Freemium |
+| [AnyType](https://anytype.io/) | PKM | Database | yes | yes | Win/Mac/Linux/iOS/Android | — | Free |
+| [Notesnook](https://github.com/streetwriters/notesnook) | Notes | Encrypted | yes | yes | Win/Mac/Linux/iOS/Android/Web | — | Freemium |
+| [TiddlyWiki](https://tiddlywiki.com/) | Wiki | HTML/JSON | 3rd-party | — | Web/Node.js | yes | Free |
+| [Org-mode](https://orgmode.org/) | PKM | Org files | 3rd-party | — | Emacs | yes | Free |
+| [Notion](https://notion.so/) | Workspace | Cloud | yes | — | Win/Mac/iOS/Android/Web | yes | Freemium |
+| [Evernote](https://evernote.com/) | Notes | Cloud | yes | — | Win/Mac/iOS/Android/Web | limited | Freemium |
+| [Google Keep](https://keep.google.com/) | Quick Notes | Cloud | yes | — | iOS/Android/Web | — | Free |
+| [OneNote](https://onenote.com/) | Notes | Cloud | yes | — | Win/Mac/iOS/Android/Web | limited | Free |
+
+> This table covers the most-searched tools. See the full list above for 100+ options.
+
 ## Contributing
 
 Contributions are very welcome! Please, read the [contribution guidelines](contributing.md) first.
