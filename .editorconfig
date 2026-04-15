@@ -1,8 +1,19 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
 root = true
 
 [*]
-indent_style = tab
-end_of_line = lf
 charset = utf-8
-trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+max_line_length=off
+end_of_line = lf
 insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{css,js,py}]
+indent_size = 4
+
+[Makefile]
+indent_style = tab
