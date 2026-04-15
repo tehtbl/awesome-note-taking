@@ -132,6 +132,7 @@
 * 📕🤖🔁 [Taskade](https://www.taskade.com) – A tree-structured note-taking and productivity app for individuals and teams. Features real-time collaboration, AI agents, automation, and multiple views (List, Board, Calendar, Mind Map, Table, etc.). Available on Web, macOS, Windows, iOS, Android, and browser extensions.
 * [OktoNote](https://oktonote.app) - An AI first note taking app that lets you fire and forget. It auto organizes your notes for you in beautiful, actionable and searchable cards. Supports text, audio, photos and documents. Perfect for journals, tasks, travel itinerary and tickets, lists, things to remember, bookmarking, study notes, discussion notes etc., Available on Ios for now, launching soon on Android and Web. 
 * 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing — in Markdown that stays yours.
+* 📖 [MDLook](https://mdlook.com) ([GitHub](https://github.com/djosci/MDLook)) - Portable offline Markdown editor for Windows using WebView2, with live preview, dark mode, KaTeX math, and Mermaid diagrams.
 * 📕📖🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds, write down your thoughts or transform your thoughts into notes then ask away, and MindMirror will find exactly what you are looking for.
 * 📕 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
 
