@@ -1,6 +1,24 @@
-# Awesome Note-Taking [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="media/logo.svg" alt="Awesome Note-Taking" width="400">
+  <br><br>
+  <p><strong>The most comprehensive, community-curated collection of note-taking tools.</strong><br>
+  Open source &amp; proprietary — organized, rated, and actively maintained.</p>
+  <br>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+  <img src="https://img.shields.io/github/stars/tehtbl/awesome-note-taking?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/last-commit/tehtbl/awesome-note-taking" alt="Last Commit">
+  <img src="https://img.shields.io/github/contributors/tehtbl/awesome-note-taking" alt="Contributors">
+  <img src="https://img.shields.io/badge/projects-100%2B-blue" alt="Projects">
+  <br><br>
+</div>
 
-> A curated list of awesome note-taking software.
+> **What is this?** A hand-picked directory of 100+ note-taking apps, PKM tools,
+> and knowledge management software — from simple markdown editors to full
+> knowledge graphs. Whether you're a developer, student, writer, or researcher,
+> you'll find the right tool here.
+>
+> *Know a great tool that's missing?*
+> [Open a PR](contributing.md) — contributions are very welcome!
 
 ## Legend
 
