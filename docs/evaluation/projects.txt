@@ -1,0 +1,102 @@
+# Awesome Note-Taking - Project List
+# Format: name|url|category
+# Source: https://github.com/tehtbl/awesome-note-taking
+#
+AppFlowy|https://github.com/AppFlowy-IO/AppFlowy|Open Source > Native GUI
+Cherrytree|http://www.giuspen.com/cherrytree|Open Source > Native GUI
+DailyVox|https://github.com/intrepidkarthi/dailyvox|Open Source > Native GUI
+Fluster|https://fluster-one.vercel.app|Open Source > Native GUI
+GitJournal|https://github.com/GitJournal/GitJournal|Open Source > Native GUI
+Leo|https://leo-editor.github.io/|Open Source > Native GUI
+QOwnNotes|https://www.qownnotes.org/|Open Source > Native GUI
+Red Notebook|https://rednotebook.app/|Open Source > Native GUI
+Revu|https://github.com/JuliusBrussee/revu-swift|Open Source > Native GUI
+Tomboy|https://wiki.gnome.org/Apps/Tomboy|Open Source > Native GUI
+treesheets|https://github.com/aardappel/treesheets|Open Source > Native GUI
+Zim Desktop Wiki|https://zim-wiki.org/|Open Source > Native GUI
+IWE|https://github.com/iwe-org/iwe|Open Source > CLI
+lifeos-cli|https://github.com/liujuanjuan1984/lifeos-cli|Open Source > CLI
+nb|https://github.com/xwmx/nb|Open Source > CLI
+todo-txt|https://github.com/todotxt/todo.txt-cli|Open Source > CLI
+zk|https://github.com/mickael-menu/zk|Open Source > CLI
+FuzPad|https://github.com/JianZcar/FuzPad|Open Source > TUI
+Toney|https://github.com/SourcewareLab/Toney|Open Source > TUI
+Deft|https://github.com/jrblevin/deft|Open Source > Editor Plugin
+Emanote|https://github.com/srid/emanote|Open Source > Editor Plugin
+Emacs|https://www.gnu.org/software/emacs/|Open Source > Editor Plugin
+Foam|https://foambubble.github.io/|Open Source > Editor Plugin
+howm|https://kaorahi.github.io/howm/|Open Source > Editor Plugin
+Hyperbole/Koutliner|https://www.gnu.org/software/hyperbole/|Open Source > Editor Plugin
+Org-brain|https://github.com/Kungsgeten/org-brain|Open Source > Editor Plugin
+Org-mode|https://orgmode.org/|Open Source > Editor Plugin
+Org-roam|https://www.orgroam.com/|Open Source > Editor Plugin
+vim-wiki|https://github.com/vimwiki/vimwiki|Open Source > Editor Plugin
+AFFiNE|https://github.com/toeverything/AFFiNE|Open Source > Electron
+AnyType|https://anytype.io/|Open Source > Electron
+Bangle.io|https://bangle.io|Open Source > Electron
+btw|https://github.com/btw-so/btw|Open Source > Electron
+Linked|https://github.com/lostdesign/linked|Open Source > Electron
+Logseq|https://github.com/logseq/logseq|Open Source > Electron
+Notable|https://notable.app/|Open Source > Electron
+SiYuan|https://github.com/siyuan-note/siyuan|Open Source > Electron
+Standard Notes|https://github.com/standardnotes/app|Open Source > Electron
+SwarmVault|https://github.com/swarmclawai/swarmvault|Open Source > Electron
+Tangent Notes|https://www.tangentnotes.com/|Open Source > Electron
+TidGi|https://github.com/tiddly-gittly/TidGi-Desktop|Open Source > Electron
+Zettlr|https://www.zettlr.com/|Open Source > Electron
+Char|https://github.com/fastrepl/char|Open Source > Tauri
+Inkwell|https://github.com/4worlds4w-svg/inkwell|Open Source > Tauri
+Stik|https://github.com/0xMassi/stik_app|Open Source > Tauri
+Treedome|https://codeberg.org/solver-orgz/treedome|Open Source > Tauri
+CodiMD|https://github.com/hackmdio/codimd|Open Source > Web UI
+Docmost|https://github.com/docmost/docmost|Open Source > Web UI
+Dokuwiki|https://www.dokuwiki.org/dokuwiki|Open Source > Web UI
+Ephe|https://github.com/unvalley/ephe|Open Source > Web UI
+Flatnotes|https://github.com/dullage/flatnotes|Open Source > Web UI
+Fossil|https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki|Open Source > Web UI
+HedgeDoc|https://github.com/hedgedoc/hedgedoc|Open Source > Web UI
+Hypothes.is|https://hypothes.is/|Open Source > Web UI
+Joplin|https://joplinapp.org/|Open Source > Web UI
+Laverna|https://laverna.cc|Open Source > Web UI
+Memos|https://github.com/usememos/memos|Open Source > Web UI
+NattyNote|https://github.com/ahmedelq/NattyNote|Open Source > Web UI
+Neuron|https://neuron.zettel.page/|Open Source > Web UI
+Notesnook|https://github.com/streetwriters/notesnook|Open Source > Web UI
+Outline|https://github.com/outline/outline|Open Source > Web UI
+SilverBullet|https://github.com/silverbulletmd/silverbullet|Open Source > Web UI
+Solo|https://github.com/johnSamilin/solo|Open Source > Web UI
+TiddlyWiki|https://github.com/TiddlyWiki/TiddlyWiki5|Open Source > Web UI
+Bear|https://bear.app/|Proprietary
+Capacities|https://capacities.io/|Proprietary
+Craft|https://www.craft.do/|Proprietary
+DEVONthink|https://www.devontechnologies.com/apps/devonthink|Proprietary
+Evernote|https://www.evernote.com|Proprietary
+Google Keep|https://keep.google.com|Proprietary
+HackMD|https://hackmd.io|Proprietary
+Heptabase|https://heptabase.com/|Proprietary
+Inkdrop|https://www.inkdrop.info|Proprietary
+JournalCalls|https://journalcalls.com|Proprietary
+MDLook|https://mdlook.com|Proprietary
+Mem|https://get.mem.ai/|Proprietary
+MindMirror|https://mindmirror.app|Proprietary
+MindWork|https://mindwork.it.com/|Proprietary
+Notion|https://notion.so|Proprietary
+NotePlan|https://noteplan.co|Proprietary
+Notebook|https://www.zoho.com/notebook|Proprietary
+Obsidian|https://obsidian.md/|Proprietary
+Octarine|https://octarine.app/|Proprietary
+OktoNote|https://oktonote.app|Proprietary
+OneNote|https://www.onenote.com|Proprietary
+Polar|https://getpolarized.io/|Proprietary
+Reflect|https://reflect.app/|Proprietary
+Roam|https://roamresearch.com/|Proprietary
+Simplenote|http://simplenote.com|Proprietary
+Somnote|http://somcloud.com/about/somnote|Proprietary
+Squid|http://squidnotes.com|Proprietary
+Supernotes|https://supernotes.app|Proprietary
+Tana|https://tana.inc/|Proprietary
+Taskade|https://www.taskade.com|Proprietary
+TheBrain|https://www.thebrain.com/|Proprietary
+Ulysses|https://ulysses.app/|Proprietary
+Workflowy|https://workflowy.com|Proprietary
+Wridea|http://wridea.com|Proprietary
