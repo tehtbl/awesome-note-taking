@@ -1,50 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380">
-  <!-- Notepad icon -->
-  <g transform="translate(400, 80)">
-    <!-- Notepad body -->
-    <rect x="-38" y="-42" width="76" height="94" rx="6" ry="6" fill="#699D68"/>
-    <!-- Spiral binding dots -->
-    <circle cx="-20" cy="-42" r="5" fill="#494368"/>
-    <circle cx="0"   cy="-42" r="5" fill="#494368"/>
-    <circle cx="20"  cy="-42" r="5" fill="#494368"/>
-    <!-- Ruled lines -->
-    <line x1="-24" y1="-18" x2="24" y2="-18" stroke="white" stroke-width="3" stroke-linecap="round"/>
-    <line x1="-24" y1="-2"  x2="24" y2="-2"  stroke="white" stroke-width="3" stroke-linecap="round"/>
-    <line x1="-24" y1="14"  x2="16" y2="14"  stroke="white" stroke-width="3" stroke-linecap="round"/>
-    <!-- Pencil -->
-    <g transform="translate(34, 34) rotate(-45)">
-      <rect x="-4" y="-28" width="8" height="36" rx="2" fill="#494368"/>
-      <polygon points="-4,8 4,8 0,16" fill="#494368"/>
-      <rect x="-4" y="-34" width="8" height="8" rx="1" fill="#a08060"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 -80 584 430">
+  <!-- Awesome-style geometric glasses (scaled down) -->
+  <g transform="translate(322, 20) scale(0.65) translate(-322, -20)">
+    <path fill="#699D68" d="M614.2 91l-150-137.6-21.1 23L568.1 91H75.4l125-114.7-21.1-23L29.3 91h-.1v90.7c0 41 39.5 74.4 88 74.4h92.5c48.5 0 88-33.4 88-74.4v-59.6h48v59.6c0 41 39.5 74.4 88 74.4h92.5c48.5 0 88-33.4 88-74.4V91z"/>
   </g>
-
   <!-- "awesome" -->
-  <text
-    x="400" y="210"
-    text-anchor="middle"
-    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="80"
-    font-weight="700"
-    letter-spacing="-1"
-    fill="#494368">awesome</text>
-
+  <text x="322" y="240" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-1" fill="#494368">awesome</text>
   <!-- "note-taking" -->
-  <text
-    x="400" y="286"
-    text-anchor="middle"
-    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="60"
-    font-weight="300"
-    letter-spacing="1"
-    fill="#699D68">note-taking</text>
-
+  <text x="322" y="296" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="50" font-weight="300" letter-spacing="2" fill="#699D68">note-taking</text>
   <!-- Tagline -->
-  <text
-    x="400" y="340"
-    text-anchor="middle"
-    font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"
-    font-size="18"
-    fill="#494368"
-    opacity="0.55">Curating the best note-taking apps and resources</text>
+  <text x="322" y="338" text-anchor="middle" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#494368" opacity="0.55">Curating the best note-taking apps and resources</text>
 </svg>
