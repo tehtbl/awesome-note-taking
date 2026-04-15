@@ -61,6 +61,8 @@
 - 📕 [treesheets](https://github.com/aardappel/treesheets) - Free form data organizer using hierarchical spreadsheet. `Zlib` `C++`
 - 📖 [Zim Desktop Wiki](https://zim-wiki.org/) - Open source multi-platform desktop GUI to manage a collection of local wiki pages. `GPL-2.0` `Python/GTK`
 
+<p align="right"><a href="#contents">back to top</a></p>
+
 ### CLI
 
 - 📖 [IWE](https://github.com/iwe-org/iwe) - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix. `Apache-2.0` `Rust`
@@ -69,10 +71,14 @@
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki. `GPL-3.0` `Go`
 
+<p align="right"><a href="#contents">back to top</a></p>
+
 ### TUI
 
 - 📖 [FuzPad](https://github.com/JianZcar/FuzPad) - A minimalistic note management solution powered by fzf. `GPL-3.0` `Shell`
 - 📖 [Toney](https://github.com/SourcewareLab/Toney) - A fast, lightweight, terminal-based note-taking app for the modern developer. `MIT` `Go`
+
+<p align="right"><a href="#contents">back to top</a></p>
 
 ### Editor Plugin
 
@@ -87,6 +93,8 @@
   - 📖 [Hyperbole/Koutliner](https://www.gnu.org/software/hyperbole/) - Multi-level autonumbered hypertextual outliner for Emacs. `GPL-3.0` `Emacs Lisp`
   - 📖 [howm](https://kaorahi.github.io/howm/) - Note-taking tool on Emacs that can be combined with any format. `GPL-2.0` `Emacs Lisp`
 - 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim — a number of linked text files with their own syntax highlighting. `MIT` `Vim Script`
+
+<p align="right"><a href="#contents">back to top</a></p>
 
 ### Electron
 
@@ -104,12 +112,16 @@
 - 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform, based on TiddlyWiki. `MPL-2.0` `Electron/TypeScript`
 - 📖 [Zettlr](https://www.zettlr.com/) - Markdown editor for academics and researchers. `GPL-3.0` `Electron/TypeScript`
 
+<p align="right"><a href="#contents">back to top</a></p>
+
 ### Tauri
 
 - 📖🍎 [Char](https://github.com/fastrepl/char) - Open-source AI notepad for meetings with flexible AI stack and on-device storage. `GPL-3.0` `Tauri/Rust+TypeScript`
 - 📖 [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, templates, focus mode, and diff viewer. `Source-available` `Tauri/Rust`
 - 📖 [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files. `MIT` `Tauri/TypeScript+Rust`
 - 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted note-taking application organized in tree-like structures. `AGPL-3.0` `Tauri/Rust`
+
+<p align="right"><a href="#contents">back to top</a></p>
 
 ### Web UI
 
@@ -131,6 +143,8 @@
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+
+<p align="right"><a href="#contents">back to top</a></p>
 
 ## Proprietary
 
@@ -168,6 +182,8 @@
 - 📖🍎🔁 [Ulysses](https://ulysses.app/) - Premium writing app for Mac, iPad, and iPhone with Markdown support. Apple platforms only.
 - 📕🍎🤖🔁 [Workflowy](https://workflowy.com) - Web-based organizational tool to create todo lists, notes, team projects, and more.
 - ⚠️ [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends. Website appears dead.
+
+<p align="right"><a href="#contents">back to top</a></p>
 
 ## Quick Comparison
 
