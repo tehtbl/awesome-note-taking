@@ -41,6 +41,8 @@
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source native desktop journal using plain-text files.
 - 📖🤖 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated syncing with Git. Supports iOS, Android, Linux and MacOS (flutter).
 - [Fluster](https://fluster-one.vercel.app) - All in one note taking solution for modern students and academics. Powered by Rust with integrated AI.
+- 📕🔁 [DailyVox](https://github.com/intrepidkarthi/dailyvox) - Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync (swift/swiftui).
+- 📕 [Revu](https://github.com/JuliusBrussee/revu-swift) - Local-first spaced repetition note-taking app for macOS with FSRS scheduling, Notion-inspired UI, Anki import, study guides, and exams. Built with SwiftUI.
 
 ### CLI
 
@@ -49,6 +51,7 @@
 - [Note CLI](https://github.com/yuis-ice/note-cli) - Converts a markdown file to a SQLite database and provides a regular-expression searching capability.
 - [nb](https://github.com/xwmx/nb) - A command line and local web note‑taking, bookmarking, archiving, and knowledge base application
 - 📖 [IWE](https://github.com/iwe-org/iwe) - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks, link completion, and code actions. Works with VS Code, Neovim, Zed, and Helix.
+- 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs.
 
 ### TUI
 
@@ -94,6 +97,7 @@
 * 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted, note taking application organized in tree-like structures.
 * 📖 [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
 * [Char](https://github.com/fastrepl/char) - Open-source AI notepad for meetings with flexible AI stack and on-device storage.
+* 📖 [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, templates, focus mode, typewriter mode, find & replace, and diff viewer.
 
 ### Web UI
 * 📖🤖🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization and has Windows, Linux, Android, Cli builds. Supports import from Evernote.
