@@ -1,0 +1,32 @@
+name: "Report an issue"
+description: "Report a broken link, outdated entry, or incorrect information"
+labels: ["bug"]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Tool name
+      placeholder: "Which tool has the issue?"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - "Broken link"
+        - "Outdated description"
+        - "Wrong category"
+        - "Project abandoned/archived"
+        - "License changed"
+        - "Duplicate entry"
+        - "Other"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: "What's wrong and what should it be?"
+    validations:
+      required: true

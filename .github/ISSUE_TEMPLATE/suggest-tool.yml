@@ -1,0 +1,49 @@
+name: "Suggest a tool"
+description: "Suggest a new note-taking tool to add to the list"
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: "e.g., Obsidian"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - "Open Source — Native GUI"
+        - "Open Source — CLI"
+        - "Open Source — TUI"
+        - "Open Source — Editor Plugin"
+        - "Open Source — Electron"
+        - "Open Source — Tauri"
+        - "Open Source — Web UI"
+        - "Proprietary"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "Brief description (1-2 sentences)"
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Verification
+      options:
+        - label: "I verified this tool is not already on the list"
+          required: true
+        - label: "This tool is actively maintained (last commit within 12 months)"
+          required: true
