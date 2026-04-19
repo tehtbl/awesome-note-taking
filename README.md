@@ -185,6 +185,7 @@
 - 📖🍎🔁 [Ulysses](https://ulysses.app/) - Premium writing app for Mac, iPad, and iPhone with Markdown support. Apple platforms only.
 - 📕🍎🤖🔁 [Workflowy](https://workflowy.com) - Web-based organizational tool to create todo lists, notes, team projects, and more.
 - ⚠️ [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends. Website appears dead.
+- 📕🔁 [CallBro](https://callbro.ai/) - AI note taker, focus on meetings and online lectures without bots. Available on Mac. 
 
 <p align="right"><a href="#contents">back to top</a></p>
 
