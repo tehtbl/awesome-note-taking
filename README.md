@@ -151,6 +151,7 @@
 
 ## Proprietary
 
+- 📖🍎🔒 [不拖 (Butuo)](https://apps.apple.com/app/id6761042128) - Minimalist to-do app for iPhone and iPad. No account, no server, no sync. Data stored locally only. Free.
 - 📖🍎 [Bear](https://bear.app/) - Beautiful, flexible writing app for notes and prose. Apple platforms only (Mac, iPhone, iPad). Sync via iCloud with Bear Pro.
 - 📕🍎🤖🔁 [Capacities](https://capacities.io/) - Object-based note-taking app for networked thinking. Available on macOS, Windows, Linux, web, iOS, and Android.
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
