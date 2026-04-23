@@ -152,6 +152,7 @@
 ## Proprietary
 
 - 📖🍎 [Bear](https://bear.app/) - Beautiful, flexible writing app for notes and prose. Apple platforms only (Mac, iPhone, iPad). Sync via iCloud with Bear Pro.
+- 📕🍎🔁 [Burn 451](https://burn451.cloud/?ref=awesome-note-taking) - AI-native read-later and knowledge vault. A 24-hour timer on each saved article forces read-or-delete; kept articles become a permanent Vault accessible to Claude and other AI agents via a built-in MCP server.
 - 📕🍎🤖🔁 [Capacities](https://capacities.io/) - Object-based note-taking app for networked thinking. Available on macOS, Windows, Linux, web, iOS, and Android.
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
 - 📕🍎🔁 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - macOS and iOS app for storing, organizing, and working on documents and notes.
