@@ -69,6 +69,7 @@
 ### CLI
 
 - 📖 [IWE](https://github.com/iwe-org/iwe) - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix. `Apache-2.0` `Rust`
+- 📖🔒 [duras](https://github.com/sduras/duras) - Plain text daily notes (one file per day) with search, tagging, and optional GPG encryption. `ISC` `Python`
 - 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs. `Apache-2.0` `Python`
 - 📖 [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
@@ -94,6 +95,7 @@
   - 📖 [Org-roam](https://www.orgroam.com/) - Plain-text personal knowledge management system inspired by Roam Research. `GPL-3.0` `Emacs Lisp`
 - 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim — a number of linked text files with their own syntax highlighting. `MIT` `Vim Script`
 - Visual Studio Code - Microsoft text editor.
+- 📖🔒 [duras_bridge](https://codeberg.org/duras/duras_bridge) - Vim/Neovim plugin for duras: open, append, and search daily notes without leaving the editor. `ISC` `Vimscript/Lua`
   - 📖 [Emanote](https://github.com/srid/emanote) - A structured view of your plain-text notes. Successor to Neuron. `AGPL-3.0` `Haskell`
   - 📖 [Foam](https://foambubble.github.io/) - VSCode plugin for personal knowledge management inspired by Roam Research. `MIT` `TypeScript/VSCode`
 
