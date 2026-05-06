@@ -113,6 +113,7 @@
 - 📖 [SwarmVault](https://github.com/swarmclawai/swarmvault) - Local-first RAG knowledge base compiler with persistent markdown wiki, knowledge graph, hybrid SQLite FTS and embeddings, contradiction detection, and built-in MCP server. `MIT` `Node.js/TypeScript`
 - 📖 [Tangent Notes](https://www.tangentnotes.com/) - An open source, local-first markdown note taking application designed to let you write the way you think. `Apache-2.0` `Electron/TypeScript`
 - 📖🤖🔁 [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop) - Customizable personal knowledge-base with git as backup manager and blogging platform, based on TiddlyWiki. `MPL-2.0` `Electron/TypeScript`
+- 📖 [ToutKit](https://github.com/toutkit/toutkit) - Local-first desktop notebook where each note is a self-contained folder of HTML, SQLite, and scripts; a built-in terminal lets AI CLIs (Claude Code, Codex, Gemini) write interactive HTML pages rendered inline instead of plain text. `AGPL-3.0` `Electron/JavaScript`
 - 📖 [Zettlr](https://www.zettlr.com/) - Markdown editor for academics and researchers. `GPL-3.0` `Electron/TypeScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
