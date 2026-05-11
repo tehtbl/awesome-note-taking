@@ -63,6 +63,7 @@
 - 🤖🔁⚠️ [Tomboy](https://wiki.gnome.org/Apps/Tomboy) - GNOME desktop note-taking application for Linux, Windows, and macOS. Original project abandoned; see [tomboy-ng](https://github.com/tomboy-notes/tomboy-ng) for the active successor. `LGPL-2.1` `C#/Mono`
 - 📕 [treesheets](https://github.com/aardappel/treesheets) - Free form data organizer using hierarchical spreadsheet. `Zlib` `C++`
 - 📖 [Zim Desktop Wiki](https://zim-wiki.org/) - Open source multi-platform desktop GUI to manage a collection of local wiki pages. `GPL-2.0` `Python/GTK`
+- 📕 [Rnote](https://rnote.flxzt.net/) - Open source vector-based drawing app for sketching, handwritten notes and to annotate documents and pictures. It is targeted at students, teachers and those who own a drawing tablet. `GPL-3.0` `Rust/GTK`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
