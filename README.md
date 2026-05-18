@@ -174,6 +174,7 @@
 - 📕🍎🤖🔁 [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 - ⚠️ [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base. Website unreachable; appears abandoned.
 - 📕🍎🔒🔁 [Reflect](https://reflect.app/) - Fast, AI-powered note-taking app with end-to-end encryption. Available on Mac, Windows, web, and iOS.
+- 📕🍎🖥️🤖📱 [remio](https://www.remio.ai/) - Personal AI agent that passively captures everything you work on — web pages, files, emails, and meetings — and helps you draft docs, reports, and emails from your own knowledge base. Supports BYOK and local models via Ollama.
 - 📖🔁 [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - 📖 [Save](https://www.savemarkdown.co) - Chrome extension and macOS menu bar app that saves any webpage as clean Markdown to a local vault, with a built-in MCP server exposing the vault to Claude.
 - 📖🍎🤖🔁 [Simplenote](http://simplenote.com) - Available for iOS, Android, macOS, Windows, Linux, and the web. Supports Markdown.
