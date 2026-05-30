@@ -127,6 +127,7 @@
 <p align="right"><a href="#contents">back to top</a></p>
 
 ### Web UI
+- [Shiori](https://github.com/kaorii-ako/Shiori-v1) - AI-powered student note-taking with per-course markdown editor, AI summarizer, auto-save, flashcard generation from notes. Includes GPA tracker, spaced repetition, Pomodoro. Self-hosted. ([Demo](https://shiori-v1.vercel.app))
 
 - 📖⚠️ [CodiMD](https://github.com/hackmdio/codimd) - The free software version of HackMD. See [HedgeDoc](https://hedgedoc.org/) for the active community fork. `AGPL-3.0` `Web/JavaScript`
 - 📖 [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration. `AGPL-3.0` `Web/TypeScript`
