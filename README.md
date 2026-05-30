@@ -156,6 +156,7 @@
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
 - 📕🍎🔁 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - macOS and iOS app for storing, organizing, and working on documents and notes.
 - 📕🍎🤖🔁 [Evernote](https://www.evernote.com) - An app designed for note-taking, organizing, task management, and archiving of different formats.
+- 📕 [Flote](https://github.com/tomarai85/flote) - macOS sticky-note app: Option+Space to scribble a raw thought, then one Organize tap turns it into a title, key points, and a checklist via local Ollama or Claude. Local-first, free, source-available (FSL-1.1, becomes Apache-2.0). macOS only.
 - 📕🍎🤖🔁 [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. Available on the web and as a mobile app.
 - 📖 [HackMD](https://hackmd.io) - Helps developers write better documents and build active communities with open collaboration.
 - 📕🍎🤖🔁 [Heptabase](https://heptabase.com/) - Visual note-taking tool for learning complex topics, with whiteboard-based card organization.
