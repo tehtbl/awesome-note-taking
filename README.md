@@ -120,6 +120,7 @@
 ### Tauri
 
 - 📖🍎 [Char](https://github.com/fastrepl/char) - Open-source AI notepad for meetings with flexible AI stack and on-device storage. `GPL-3.0` `Tauri/Rust+TypeScript`
+- 📖 [Glyph](https://github.com/hamidfzm/glyph) - Cross-platform Markdown viewer and editor with wikilinks, backlinks, multi-file workspaces, KaTeX math, Mermaid diagrams, and AI assistance. `MIT` `Tauri/Rust+TypeScript`
 - 📖 [Inkwell](https://github.com/4worlds4w-svg/inkwell) - Portable Markdown editor with split view, live preview, themes, templates, focus mode, and diff viewer. `Source-available` `Tauri/Rust`
 - 📖 [Stik](https://github.com/0xMassi/stik_app) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files. `MIT` `Tauri/TypeScript+Rust`
 - 📕 [Treedome](https://codeberg.org/solver-orgz/treedome) - Open-source and local-first, encrypted note-taking application organized in tree-like structures. `AGPL-3.0` `Tauri/Rust`
