@@ -69,6 +69,7 @@
 ### CLI
 
 - 📖 [IWE](https://github.com/iwe-org/iwe) - A markdown-based knowledge management tool with CLI and LSP server. Turns markdown files into a navigable graph with backlinks and link completion. Works with VS Code, Neovim, Zed, and Helix. `Apache-2.0` `Rust`
+- 📖 [jn](https://github.com/joereynolds/jn) - A CLI note taker and task manager with fuzzy finding at the forefront. 
 - 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs. `Apache-2.0` `Python`
 - 📖 [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
