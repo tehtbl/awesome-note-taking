@@ -165,6 +165,7 @@
 - 📕🍎🔁 [Mem](https://get.mem.ai/) - AI-powered self-organizing workspace for notes and knowledge. Available on web and iOS.
 - 📕🍎🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds with AI search and smart organization. iOS available, Android coming soon.
 - 📕🔁 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
+- 📕🍎🔒🔁 [MirrorNotes](https://mirrornotes.org) - Private AI journaling app for iPhone. All AI — daily reflection prompts, mood tracking, and Ask-your-journal queries — runs entirely on-device via Gemma 3. Journal text never leaves your device. Free to write unlimited entries forever; AI features on 7-day free trial.
 - 📕🍎🤖🔁 [Notebook](https://www.zoho.com/notebook) - Mobile, web, and desktop app to take multiple forms of notes, from Zoho.
 - 📖🍎🔁 [NotePlan](https://noteplan.co) - Combines tasks, notes, and calendar all in one place. Available on Mac and iOS.
 - 📕🍎🤖🔁 [Notion](https://notion.so) - All-in-one workspace for notes, docs, wikis, projects, and collaboration.
