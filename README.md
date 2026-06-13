@@ -105,6 +105,7 @@
 - 📕🍎🤖🔒🔁 [AnyType](https://anytype.io/) - Open source local-first app for tasks, notes, and more with E2EE and cross-platform sync. `Source-available` `Electron/TypeScript`
 - 📖 [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right on your computer. `AGPL-3.0` `Web/TypeScript`
 - 📖 [btw](https://github.com/btw-so/btw) - Open source personal website builder. `GPL-3.0` `Electron/JavaScript`
+- 📕 [ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal) - Local-first AI PKM for coding conversations that imports Claude Code, Cursor, Codex CLI, Trae, and GitHub Copilot chats into notes, semantic search, tag graphs, Markdown exports, and MCP memory. `Apache-2.0` `Electron/TypeScript`
 - 📖 [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure, and free. Supports macOS, Windows, and Linux. `GPL-3.0` `Electron/TypeScript`
 - 📖🍎🤖🔁 [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. `AGPL-3.0` `Electron/ClojureScript`
 - ⚠️ [Notable](https://notable.app/) - Simple note-taking app based on VS Code Editor. No longer open source as of v1.6. `Proprietary` `Electron/TypeScript`
