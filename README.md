@@ -166,6 +166,7 @@
 - 📕🍎🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds with AI search and smart organization. iOS available, Android coming soon.
 - 📕🔁 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
 - 📕🍎🤖🔁 [Notebook](https://www.zoho.com/notebook) - Mobile, web, and desktop app to take multiple forms of notes, from Zoho.
+- 📕🔁 [NoteRich](https://noterich.com) - AI-powered notes with built-in RAG search. Import documents, ask questions in natural language, find anything in seconds. 41 languages. Free tier. PRO: $39.90/year.
 - 📖🍎🔁 [NotePlan](https://noteplan.co) - Combines tasks, notes, and calendar all in one place. Available on Mac and iOS.
 - 📕🍎🤖🔁 [Notion](https://notion.so) - All-in-one workspace for notes, docs, wikis, projects, and collaboration.
 - 📖🍎🔒🔁 [Obsidian](https://obsidian.md/) - Free for personal use app that works on top of a local folder of plain text Markdown files. Optional E2EE sync via Obsidian Sync.
@@ -208,6 +209,7 @@ A side-by-side overview of the most popular tools to help you choose:
 | [TiddlyWiki](https://tiddlywiki.com/) | Wiki | HTML/JSON | 3rd-party | — | Web/Node.js | yes | Free |
 | [Org-mode](https://orgmode.org/) | PKM | Org files | 3rd-party | — | Emacs | yes | Free |
 | [Notion](https://notion.so/) | Workspace | Cloud | yes | — | Win/Mac/iOS/Android/Web | yes | Freemium |
+| [NoteRich](https://noterich.com/) | Notes | Local/Cloud | yes | yes | Web | yes | Freemium |
 | [Evernote](https://evernote.com/) | Notes | Cloud | yes | — | Win/Mac/iOS/Android/Web | limited | Freemium |
 | [Google Keep](https://keep.google.com/) | Quick Notes | Cloud | yes | — | iOS/Android/Web | — | Free |
 | [OneNote](https://onenote.com/) | Notes | Cloud | yes | — | Win/Mac/iOS/Android/Web | limited | Free |
