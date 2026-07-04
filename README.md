@@ -54,6 +54,7 @@
 - 📕🍎🤖🔁 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open source alternative to Notion. Supports macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Flutter/Dart`
 - 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app featuring rich text and syntax highlighting. `GPL-3.0` `Qt/C++`
 - 📕🍎🔁 [DailyVox](https://github.com/intrepidkarthi/dailyvox) - Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync. `MIT` `Swift/SwiftUI`
+- 📖 [Everseq](https://github.com/alkalim/Everseq) - Native macOS outliner with block trees, page and block references, embeds, queries, backlinks, and plain Markdown storage. `AGPL-3.0` `Swift/SwiftUI`
 - 📖 [Fluster](https://fluster-one.vercel.app) - All-in-one note-taking solution for modern students and academics, powered by Rust with integrated AI. `?` `Rust/TypeScript`
 - 📖🍎🤖🔁 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated Git syncing. Supports iOS, Android, Linux, and macOS. `AGPL-3.0` `Flutter/Dart`
 - 📖 [Leo](https://leo-editor.github.io/) - PIM, IDE, and outliner that accelerates the work flow of programmers, authors, and web designers. `MIT` `Python`
