@@ -217,3 +217,5 @@ A side-by-side overview of the most popular tools to help you choose:
 ## Contributing
 
 Contributions are very welcome! Please, read the [contribution guidelines](contributing.md) first.
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
