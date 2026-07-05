@@ -145,6 +145,7 @@
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
+- 📖 [tela](https://telawiki.com) - Self-hostable, markdown-native team wiki with a built-in MCP server so AI agents read and write it; its Atlas engine turns a git repo or Jira into cited, coverage-audited docs. `AGPL-3.0` `Go/React`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
