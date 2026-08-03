@@ -146,6 +146,7 @@
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+- 📖🔁 [Write Wall](https://github.com/gcko/Write-Wall) - Markdown scratchpad in a Chrome extension, synced across devices through the signed-in Chrome account. `CC-BY-SA-4.0` `Browser Extension/TypeScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
