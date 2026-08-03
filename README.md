@@ -140,6 +140,7 @@
 - 📕⚠️ [Laverna](https://laverna.cc) - Evernote-like note-taking web application with a Markdown editor. Abandoned since 2018. `MPL-2.0` `Web/JavaScript`
 - 📖🔁 [Memos](https://github.com/usememos/memos) - Lightweight, self-hosted memo hub. Privacy first. `MIT` `Go/React`
 - 📖 [NattyNote](https://github.com/ahmedelq/NattyNote) - A free, open-source browser extension to take time-stamped YouTube notes. `GPL-3.0` `Browser Extension/JavaScript`
+- 📖🔁 [Write Wall](https://github.com/gcko/Write-Wall) - Free, open-source Chrome extension markdown scratchpad that syncs via your Chrome account with no servers or accounts. Live markdown rendering, focus and typewriter modes, data backup with one-click restore. `CC-BY-SA-4.0` `Browser Extension/TypeScript`
 - 📖⚠️ [Neuron](https://neuron.zettel.page/) - Open-source app for managing plain-text notes in Zettelkasten style. Superseded by Emanote. `AGPL-3.0` `Haskell`
 - 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
