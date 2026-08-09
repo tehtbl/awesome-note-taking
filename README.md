@@ -72,6 +72,7 @@
 - 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs. `Apache-2.0` `Python`
 - 📖 [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
+- 📖 [Wenlan](https://github.com/7xuanlu/wenlan) - Local source-backed AI knowledge base for agents, with maintained Markdown pages, citations, and CLI, MCP, and HTTP access. `Apache-2.0` `Rust`
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki. `GPL-3.0` `Go`
 
 <p align="right"><a href="#contents">back to top</a></p>
