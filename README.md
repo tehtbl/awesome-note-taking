@@ -146,6 +146,7 @@
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+- 📖 [TopicSplit](https://github.com/andrwspt/topicsplit) - Free offline semantic text grouper. Splits pasted text into topic segments by meaning, not word count. Perfect for breaking long articles into atomic notes for Obsidian, Logseq, and Notion. `MIT` `Web/JavaScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
