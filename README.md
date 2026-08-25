@@ -151,6 +151,7 @@
 
 ## Proprietary
 
+- 📕🍎 [100 Notes Studio](https://apps.apple.com/app/id6798813048) - Handwriting, typed notes and PDF markup for iPad and iPhone, with 29 pens and brushes, page-attached audio, and on-device handwriting/PDF text recognition. No account, ads or third-party tracking; everything works offline. Free, with a one-time unlock for unlimited notebooks and PDF export.
 - 📖🍎 [Bear](https://bear.app/) - Beautiful, flexible writing app for notes and prose. Apple platforms only (Mac, iPhone, iPad). Sync via iCloud with Bear Pro.
 - 📕🍎🤖🔁 [Capacities](https://capacities.io/) - Object-based note-taking app for networked thinking. Available on macOS, Windows, Linux, web, iOS, and Android.
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
