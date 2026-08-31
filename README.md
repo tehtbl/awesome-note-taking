@@ -131,6 +131,7 @@
 - 📖⚠️ [CodiMD](https://github.com/hackmdio/codimd) - The free software version of HackMD. See [HedgeDoc](https://hedgedoc.org/) for the active community fork. `AGPL-3.0` `Web/JavaScript`
 - 📖 [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration. `AGPL-3.0` `Web/TypeScript`
 - 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - A simple to use and highly versatile open source wiki software that doesn't require a database. `GPL-2.0` `Web/PHP`
+- 📕🍎🤖🔁 [EdgeEver](https://edgeever.org/) - Self-hosted notes workspace with a classic three-pane interface, Markdown portability, offline sync, and native MCP integration. `AGPL-3.0` `Web+Electron+React Native+SwiftUI/TypeScript+Swift+Rust`
 - 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown paper for daily todo and thoughts. Privacy first, OSS, local-only. `MIT` `Web/TypeScript`
 - 📖 [Flatnotes](https://github.com/dullage/flatnotes) - Self-hosted, database-less, plain-text markdown note-taking app. `MIT` `Python/Vue`
 - 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) - Source control software with built-in standalone wiki pages. `BSD-2-Clause` `C`
