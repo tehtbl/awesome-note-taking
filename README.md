@@ -165,6 +165,7 @@
 - 📕🍎🔁 [Mem](https://get.mem.ai/) - AI-powered self-organizing workspace for notes and knowledge. Available on web and iOS.
 - 📕🍎🔁 [MindMirror](https://mindmirror.app) - Note app for busy minds with AI search and smart organization. iOS available, Android coming soon.
 - 📕🔁 [MindWork](https://mindwork.it.com/) - A Cursor-like AI workspace for deep and focused personal knowledge management.
+- 📕 [Musuw](https://musuw.com/) - AI knowledge workspace with cited answers, connected Wiki pages, and a knowledge graph. Web app with free and paid plans.
 - 📕🍎🤖🔁 [Notebook](https://www.zoho.com/notebook) - Mobile, web, and desktop app to take multiple forms of notes, from Zoho.
 - 📖🍎🔁 [NotePlan](https://noteplan.co) - Combines tasks, notes, and calendar all in one place. Available on Mac and iOS.
 - 📕🍎🤖🔁 [Notion](https://notion.so) - All-in-one workspace for notes, docs, wikis, projects, and collaboration.
