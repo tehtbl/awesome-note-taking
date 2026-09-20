@@ -43,6 +43,7 @@
   - [Electron](#electron)
   - [Tauri](#tauri)
   - [Web UI](#web-ui)
+- [Source Available](#source-available)
 - [Proprietary](#proprietary)
 - [Quick Comparison](#quick-comparison)
 - [Contributing](#contributing)
@@ -146,6 +147,12 @@
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+
+<p align="right"><a href="#contents">back to top</a></p>
+
+## Source Available
+
+- 📕 [Screenpipe](https://screenpipe.com/) - Captures screen text and audio into searchable local history for meeting notes, work summaries, and personal knowledge recall, with MCP access for AI assistants. Configured cloud AI, transcription, sync, and integrations can send context off-device. `Screenpipe Commercial License` `Tauri/Rust+TypeScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
