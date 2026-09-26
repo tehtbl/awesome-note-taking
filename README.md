@@ -92,6 +92,7 @@
   - 📖⚠️ [Org-brain](https://github.com/Kungsgeten/org-brain) - Concept mapping in Emacs using org-mode. Last commit 2023; appears unmaintained. `MIT` `Emacs Lisp`
   - 📖 [Org-mode](https://orgmode.org/) - Plain-text markup and major mode for keeping notes, authoring documents, computational notebooks, and literate programming. `GPL-3.0` `Emacs Lisp`
   - 📖 [Org-roam](https://www.orgroam.com/) - Plain-text personal knowledge management system inspired by Roam Research. `GPL-3.0` `Emacs Lisp`
+- 📖 [Sanemark](https://github.com/nkitsaini/sanemark) - Markdown language server for note-taking in VS Code, Zed, and other LSP clients, with standard file links, daily notes, and formatting. `MIT` `Rust`
 - 📖 [vim-wiki](https://github.com/vimwiki/vimwiki) - A personal wiki for Vim — a number of linked text files with their own syntax highlighting. `MIT` `Vim Script`
 - Visual Studio Code - Microsoft text editor.
   - 📖 [Emanote](https://github.com/srid/emanote) - A structured view of your plain-text notes. Successor to Neuron. `AGPL-3.0` `Haskell`
