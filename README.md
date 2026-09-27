@@ -72,6 +72,7 @@
 - 📕 [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - A terminal-native LifeOS for notes, linked tasks, schedules, events, and timelogs. `Apache-2.0` `Python`
 - 📖 [nb](https://github.com/xwmx/nb) - A command line and local web note-taking, bookmarking, archiving, and knowledge base application. `AGPL-3.0` `Shell`
 - 📖 [todo-txt](https://github.com/todotxt/todo.txt-cli) - A simple and extensible shell script for managing your todo.txt file. `GPL-3.0` `Shell`
+- 📖 [Wordcell](https://wordcell.io) - A command-line knowledge base that keeps decisions, plans, and sources as Markdown files beside your code, with exact search, backlinks, typed links, and optional local semantic search. Coding agents can pull the notes tied to the file they are about to change. `MIT` `TypeScript`
 - 📖 [zk](https://github.com/mickael-menu/zk) - A command-line tool helping you to maintain a plain text Zettelkasten or personal wiki. `GPL-3.0` `Go`
 
 <p align="right"><a href="#contents">back to top</a></p>
