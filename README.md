@@ -139,6 +139,7 @@
 - 📖🍎🤖🔒🔁 [Joplin](https://joplinapp.org/) - Open source note taking app that supports synchronization with E2EE. Available on Windows, Linux, macOS, iOS, Android, and CLI. Supports import from Evernote. `AGPL-3.0` `Electron+React Native/TypeScript`
 - 📕⚠️ [Laverna](https://laverna.cc) - Evernote-like note-taking web application with a Markdown editor. Abandoned since 2018. `MPL-2.0` `Web/JavaScript`
 - 📖🔁 [Memos](https://github.com/usememos/memos) - Lightweight, self-hosted memo hub. Privacy first. `MIT` `Go/React`
+- 📕🔁 [MonoMap](https://monomap.app/) - Keyboard-first, local-first mind map and kanban board; maps live in IndexedDB on your device with optional cross-device sync. `MIT` `Svelte/TypeScript`
 - 📖 [NattyNote](https://github.com/ahmedelq/NattyNote) - A free, open-source browser extension to take time-stamped YouTube notes. `GPL-3.0` `Browser Extension/JavaScript`
 - 📖⚠️ [Neuron](https://neuron.zettel.page/) - Open-source app for managing plain-text notes in Zettelkasten style. Superseded by Emanote. `AGPL-3.0` `Haskell`
 - 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
