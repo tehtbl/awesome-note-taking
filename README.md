@@ -106,6 +106,7 @@
 - 📖 [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right on your computer. `AGPL-3.0` `Web/TypeScript`
 - 📖 [btw](https://github.com/btw-so/btw) - Open source personal website builder. `GPL-3.0` `Electron/JavaScript`
 - 📖 [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure, and free. Supports macOS, Windows, and Linux. `GPL-3.0` `Electron/TypeScript`
+- 📖 🔁 [PinSlip](https://github.com/homerious/pinslip) - Local-first sticky note desktop app with Markdown support, Git sync, and built-in MCP server. MIT Electron/TypeScript+Go
 - 📖🍎🤖🔁 [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. `AGPL-3.0` `Electron/ClojureScript`
 - ⚠️ [Notable](https://notable.app/) - Simple note-taking app based on VS Code Editor. No longer open source as of v1.6. `Proprietary` `Electron/TypeScript`
 - 📕🍎🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software. `AGPL-3.0` `Electron/TypeScript+Go`
