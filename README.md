@@ -173,6 +173,7 @@
 - ⚠️ [OktoNote](https://oktonote.app) - An AI-first note-taking app that auto-organizes notes into searchable cards. Website unreachable; status unclear.
 - 📕🍎🤖🔁 [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 - ⚠️ [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base. Website unreachable; appears abandoned.
+- 📕🍎 [PrivatePad](https://lakesnowtech.com/privatepad/) - Secure local notes app with privacy-focused design for Mac and iOS.
 - 📕🍎🔒🔁 [Reflect](https://reflect.app/) - Fast, AI-powered note-taking app with end-to-end encryption. Available on Mac, Windows, web, and iOS.
 - 📖🔁 [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
 - 📖 [Save](https://www.savemarkdown.co) - Chrome extension and macOS menu bar app that saves any webpage as clean Markdown to a local vault, with a built-in MCP server exposing the vault to Claude.
