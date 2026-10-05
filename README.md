@@ -156,6 +156,7 @@
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
 - 📕🍎🔁 [DEVONthink](https://www.devontechnologies.com/apps/devonthink) - macOS and iOS app for storing, organizing, and working on documents and notes.
 - 📕🍎🤖🔁 [Evernote](https://www.evernote.com) - An app designed for note-taking, organizing, task management, and archiving of different formats.
+- 📖 [Feishu Toolkit](https://dsr.ink/) - Chrome extension that exports any web page, Feishu/Lark doc or wiki into Markdown files for a local knowledge base. Markdown export is free; PDF and single-file HTML export, image ZIP packaging and batch export require a one-time Pro purchase.
 - 📕🍎🤖🔁 [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. Available on the web and as a mobile app.
 - 📖 [HackMD](https://hackmd.io) - Helps developers write better documents and build active communities with open collaboration.
 - 📕🍎🤖🔁 [Heptabase](https://heptabase.com/) - Visual note-taking tool for learning complex topics, with whiteboard-based card organization.
