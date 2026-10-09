@@ -183,6 +183,7 @@
 - 📕🍎🤖🔁 [Tana](https://tana.inc/) - Supertag-based knowledge tool with powerful structuring and AI-meeting features.
 - 📕🍎🤖🔁 [Taskade](https://www.taskade.com) - A tree-structured note-taking and productivity app with real-time collaboration, AI agents, and multiple views. Available on web, macOS, Windows, iOS, Android, and browser extensions.
 - 📕🍎🤖🔁 [TheBrain](https://www.thebrain.com/) - Mind mapping and personal knowledge base software application.
+- 📖🔁 [TypeFire](https://typefire.ai) - Mac app for Markdown notes kept as plain .md files in your own folder, with tabs, backlinks and a graph, plus snippets and clipboard history. Also has a free browser notepad that needs no sign-up at [typefire.ai/markdown-notepad](https://typefire.ai/markdown-notepad).
 - 📖🍎🔁 [Ulysses](https://ulysses.app/) - Premium writing app for Mac, iPad, and iPhone with Markdown support. Apple platforms only.
 - 📕🍎🤖🔁 [Workflowy](https://workflowy.com) - Web-based organizational tool to create todo lists, notes, team projects, and more.
 - ⚠️ [Wridea](http://wridea.com) - Web service to organize and improve ideas and notes by sharing with friends. Website appears dead.
