@@ -141,6 +141,7 @@
 - 📖🔁 [Memos](https://github.com/usememos/memos) - Lightweight, self-hosted memo hub. Privacy first. `MIT` `Go/React`
 - 📖 [NattyNote](https://github.com/ahmedelq/NattyNote) - A free, open-source browser extension to take time-stamped YouTube notes. `GPL-3.0` `Browser Extension/JavaScript`
 - 📖⚠️ [Neuron](https://neuron.zettel.page/) - Open-source app for managing plain-text notes in Zettelkasten style. Superseded by Emanote. `AGPL-3.0` `Haskell`
+- 📕 [Nostos](https://github.com/Christian-Gennari/Nostos) - Open-source personal library, reader, and study connecting books to reading notes and longform writing. `GPL-3.0` `Web/.NET+Angular`
 - 📖🍎🤖🔒🔁 [Notesnook](https://github.com/streetwriters/notesnook) - Fully open source and end-to-end encrypted note-taking app available on all platforms. `GPL-3.0` `Web/TypeScript`
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
