@@ -172,6 +172,7 @@
 - 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing in Markdown that stays yours.
 - ⚠️ [OktoNote](https://oktonote.app) - An AI-first note-taking app that auto-organizes notes into searchable cards. Website unreachable; status unclear.
 - 📕🍎🤖🔁 [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
+- 📕🍎🤖🔁 [Orano](https://oranoai.com/) - AI app that turns saved Reels, videos, articles, and PDFs into projects with summaries, action plans, and learning roadmaps. Available on iOS and Android, with sync across devices.
 - ⚠️ [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base. Website unreachable; appears abandoned.
 - 📕🍎🔒🔁 [Reflect](https://reflect.app/) - Fast, AI-powered note-taking app with end-to-end encryption. Available on Mac, Windows, web, and iOS.
 - 📖🔁 [Roam](https://roamresearch.com/) - A note-taking tool for networked thought.
