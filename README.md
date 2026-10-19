@@ -56,6 +56,7 @@
 - 📕🍎🔁 [DailyVox](https://github.com/intrepidkarthi/dailyvox) - Free AI voice diary for iOS with on-device transcription, mood tracking, Digital Twin, and knowledge graph. 100% offline, optional iCloud sync. `MIT` `Swift/SwiftUI`
 - 📖 [Fluster](https://fluster-one.vercel.app) - All-in-one note-taking solution for modern students and academics, powered by Rust with integrated AI. `?` `Rust/TypeScript`
 - 📖🍎🤖🔁 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated Git syncing. Supports iOS, Android, Linux, and macOS. `AGPL-3.0` `Flutter/Dart`
+- 📕 [Koru](https://github.com/koruworks/mono) - Local-first workspace for notes, docs and files, with terminal tabs and a local MCP server. Imports Evernote, Notion, OneNote, Google Docs and Markdown. Runs on Windows and macOS. `MPL-2.0` `Rust`
 - 📖 [Leo](https://leo-editor.github.io/) - PIM, IDE, and outliner that accelerates the work flow of programmers, authors, and web designers. `MIT` `Python`
 - 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking application with Nextcloud / ownCloud integration. `GPL-2.0` `Qt/C++`
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source desktop journal using plain-text files. `GPL-2.0` `Python/GTK`
