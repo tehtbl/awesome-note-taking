@@ -171,6 +171,7 @@
 - 📖🍎🔒🔁 [Obsidian](https://obsidian.md/) - Free for personal use app that works on top of a local folder of plain text Markdown files. Optional E2EE sync via Obsidian Sync.
 - 📖 [Octarine](https://octarine.app/) - A fast, lightweight tool for writing, planning, and organizing in Markdown that stays yours.
 - ⚠️ [OktoNote](https://oktonote.app) - An AI-first note-taking app that auto-organizes notes into searchable cards. Website unreachable; status unclear.
+- 📕🔁 [Omphalis](https://omphalis.ai) - Workspace to finish dense articles, PDFs, podcasts and video you saved; mark passages and keep notes on the source.
 - 📕🍎🤖🔁 [OneNote](https://www.onenote.com) - Microsoft OneNote is a program for free-form information gathering and multi-user collaboration.
 - ⚠️ [Polar](https://getpolarized.io/) - An integrated reading environment to build your knowledge base. Website unreachable; appears abandoned.
 - 📕🍎🔒🔁 [Reflect](https://reflect.app/) - Fast, AI-powered note-taking app with end-to-end encryption. Available on Mac, Windows, web, and iOS.
