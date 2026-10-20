@@ -158,6 +158,7 @@
 - 📕🍎🤖🔁 [Evernote](https://www.evernote.com) - An app designed for note-taking, organizing, task management, and archiving of different formats.
 - 📕🍎🤖🔁 [Google Keep](https://keep.google.com) - Google Keep is a note-taking service developed by Google. Available on the web and as a mobile app.
 - 📖 [HackMD](https://hackmd.io) - Helps developers write better documents and build active communities with open collaboration.
+- 📕🍎🔁 [Helicon](https://helicon.pages.dev/?tag=awesome-note-taking) - PDF and EPUB reader for iPhone and iPad with margin notes you type or draw in, spaced review of your notes and Markdown export. Sync via iCloud.
 - 📕🍎🤖🔁 [Heptabase](https://heptabase.com/) - Visual note-taking tool for learning complex topics, with whiteboard-based card organization.
 - 📕🍎🤖🔒🔁 [Inkdrop](https://www.inkdrop.info) - An app for organizing Markdown notes with E2EE sync. Available on macOS, Windows, Linux, iOS, and Android.
 - 📕🔁 [JournalCalls](https://journalcalls.com) - Voice journal and note-taking over a phone call. Exports to Markdown and Notion.
