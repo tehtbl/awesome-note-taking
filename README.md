@@ -146,6 +146,7 @@
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+- 📖🔁 [trip2g](https://github.com/trip2g/trip2g) - Self-hosted hub that publishes an Obsidian vault as a website and serves the same notes to AI agents over MCP. `MIT` `Web/Go`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
