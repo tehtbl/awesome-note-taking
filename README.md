@@ -151,6 +151,7 @@
 
 ## Proprietary
 
+- 📕🔁 [Barside](https://www.barside.space/) - Local-first desktop app for Windows, macOS and Linux with linked notes, a note map, tasks, a reading inbox and an AI assistant that uses your own AI account. (Proprietary)
 - 📖🍎 [Bear](https://bear.app/) - Beautiful, flexible writing app for notes and prose. Apple platforms only (Mac, iPhone, iPad). Sync via iCloud with Bear Pro.
 - 📕🍎🤖🔁 [Capacities](https://capacities.io/) - Object-based note-taking app for networked thinking. Available on macOS, Windows, Linux, web, iOS, and Android.
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
