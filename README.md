@@ -145,7 +145,8 @@
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
-- 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
+- �🔒 [BookmarkForge](https://bookmarkforgeapp.com) - Local-first AI knowledge vault with end-to-end encryption. Your bookmarks and notes stay encrypted on your device with AES-256-GCM + Argon2id. Works fully offline, syncs peer-to-peer between devices, and includes smart search with semantic embeddings. Core is MIT-licensed; Pro features (local AI, P2P sync, flashcards) are proprietary. `MIT` `Web/TypeScript`
+- �📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
 
