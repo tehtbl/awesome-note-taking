@@ -179,6 +179,7 @@
 - 📖🍎🤖🔁 [Simplenote](http://simplenote.com) - Available for iOS, Android, macOS, Windows, Linux, and the web. Supports Markdown.
 - 📕🍎🤖🔁 [Somnote](http://somcloud.com/about/somnote) - Record and save important information, ideas, and moments. Available for multiple platforms.
 - 🤖 [Squid](http://squidnotes.com) - Android app to take digital handwritten notes for class, work, or fun. Markup PDFs and sign documents.
+- 📕 [SteepJournal](https://getapps.cafe/app/steepjournal) - Password-encrypted journal for macOS and Windows that keeps each journal as a single file you store anywhere. (Proprietary)
 - 📕🍎🤖🔁 [Supernotes](https://supernotes.app) - A multi-platform notes app built around markdown notecards and card nesting with real-time collaborative features.
 - 📕🍎🤖🔁 [Tana](https://tana.inc/) - Supertag-based knowledge tool with powerful structuring and AI-meeting features.
 - 📕🍎🤖🔁 [Taskade](https://www.taskade.com) - A tree-structured note-taking and productivity app with real-time collaboration, AI agents, and multiple views. Available on web, macOS, Windows, iOS, Android, and browser extensions.
