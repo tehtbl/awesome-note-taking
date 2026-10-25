@@ -101,6 +101,7 @@
 
 ### Electron
 
+- 📕 [Acard](https://github.com/Hakubisual/open-notion-acard) - Local-first, self-hostable Notion-style workspace with a block editor, databases and a built-in MCP/REST API for AI agents. `AGPL-3.0` `Electron/TypeScript`
 - 📕🔁 [AFFiNE](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base that brings planning, sorting, and creating all together. Privacy first, open-source, customizable and ready to use. `MIT` `Electron/TypeScript`
 - 📕🍎🤖🔒🔁 [AnyType](https://anytype.io/) - Open source local-first app for tasks, notes, and more with E2EE and cross-platform sync. `Source-available` `Electron/TypeScript`
 - 📖 [Bangle.io](https://bangle.io) - A free alternative to Notion that takes markdown notes saved right on your computer. `AGPL-3.0` `Web/TypeScript`
