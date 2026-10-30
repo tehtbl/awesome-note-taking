@@ -145,6 +145,7 @@
 - 📖 [Outline](https://github.com/outline/outline) - Fast, collaborative team knowledge base. Self-hosted or cloud. `BSL-1.1` `Web/TypeScript`
 - 📖 [SilverBullet](https://github.com/silverbulletmd/silverbullet) - Free, open-source self-hosted PWA for markdown notes. `MIT` `TypeScript/Go`
 - 📕 [Solo](https://github.com/johnSamilin/solo) - Minimalistic private note-taking app with focus on typography. `MIT` `Web/TypeScript`
+- 📕🤖🔁 [Spunto](https://github.com/vitofico/spunto) - Markdown notes and checklists with an offline Android app, labels, sharing and optional AI search. `AGPL-3.0` `Python/React`
 - 📖 [TiddlyWiki](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda, and more. `BSD-3-Clause` `Web/JavaScript`
 
 <p align="right"><a href="#contents">back to top</a></p>
