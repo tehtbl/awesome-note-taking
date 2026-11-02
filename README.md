@@ -107,6 +107,7 @@
 - 📖 [btw](https://github.com/btw-so/btw) - Open source personal website builder. `GPL-3.0` `Electron/JavaScript`
 - 📖 [Linked](https://github.com/lostdesign/linked) - Forget less by daily journaling, completely offline, secure, and free. Supports macOS, Windows, and Linux. `GPL-3.0` `Electron/TypeScript`
 - 📖🍎🤖🔁 [Logseq](https://github.com/logseq/logseq) - Local-first, non-linear, outliner notebook for organizing and sharing your personal knowledge base. `AGPL-3.0` `Electron/ClojureScript`
+- 📕 [Nesso](https://nesso.how/) - Local-first desktop app for connecting ideas and building understanding through a personal knowledge graph. `MIT` `Electron/TypeScript`
 - ⚠️ [Notable](https://notable.app/) - Simple note-taking app based on VS Code Editor. No longer open source as of v1.6. `Proprietary` `Electron/TypeScript`
 - 📕🍎🤖🔁 [SiYuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software. `AGPL-3.0` `Electron/TypeScript+Go`
 - 📖🍎🤖🔒🔁 [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app for macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Electron/TypeScript`
