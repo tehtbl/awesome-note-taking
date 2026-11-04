@@ -57,6 +57,7 @@
 - 📖 [Fluster](https://fluster-one.vercel.app) - All-in-one note-taking solution for modern students and academics, powered by Rust with integrated AI. `?` `Rust/TypeScript`
 - 📖🍎🤖🔁 [GitJournal](https://github.com/GitJournal/GitJournal) - Open source markdown notes editor with integrated Git syncing. Supports iOS, Android, Linux, and macOS. `AGPL-3.0` `Flutter/Dart`
 - 📖 [Leo](https://leo-editor.github.io/) - PIM, IDE, and outliner that accelerates the work flow of programmers, authors, and web designers. `MIT` `Python`
+- 📖 [Loam](https://loam.md) - Native macOS Markdown notebook where every feature is a plugin, with notes kept as plain files on disk. `MIT` `Swift/SwiftUI`
 - 📖 [QOwnNotes](https://www.qownnotes.org/) - Open source plain-text file markdown note-taking application with Nextcloud / ownCloud integration. `GPL-2.0` `Qt/C++`
 - 📖 [Red Notebook](https://rednotebook.app/) - Open source desktop journal using plain-text files. `GPL-2.0` `Python/GTK`
 - 📕 [Revu](https://github.com/JuliusBrussee/revu-swift) - Local-first spaced repetition note-taking app for macOS with FSRS scheduling, Anki import, and study guides. `GPL-3.0` `Swift/SwiftUI`
