@@ -132,6 +132,7 @@
 - 📖 [Docmost](https://github.com/docmost/docmost) - Open-source collaborative wiki and documentation software. Notion/Confluence alternative with real-time collaboration. `AGPL-3.0` `Web/TypeScript`
 - 📖 [Dokuwiki](https://www.dokuwiki.org/dokuwiki) - A simple to use and highly versatile open source wiki software that doesn't require a database. `GPL-2.0` `Web/PHP`
 - 📖 [Ephe](https://github.com/unvalley/ephe) - A Markdown paper for daily todo and thoughts. Privacy first, OSS, local-only. `MIT` `Web/TypeScript`
+- 📖 [Escriba](https://github.com/AlvaroGarrido10/escriba) - Chrome extension that records meetings and voice notes and turns them into Markdown transcripts and minutes, with your own AI key. `MIT` `Web/JavaScript`
 - 📖 [Flatnotes](https://github.com/dullage/flatnotes) - Self-hosted, database-less, plain-text markdown note-taking app. `MIT` `Python/Vue`
 - 📖 [Fossil](https://www2.fossil-scm.org/home/doc/trunk/www/index.wiki) - Source control software with built-in standalone wiki pages. `BSD-2-Clause` `C`
 - 📖 [HedgeDoc](https://github.com/hedgedoc/hedgedoc) - Real-time collaborative markdown notes. Community successor to CodiMD. `AGPL-3.0` `Web/TypeScript`
