@@ -50,6 +50,7 @@
 ## Open Source
 
 ### Native GUI
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS desktop widget displaying now playing tracks beside the Dock.
 
 - 📕🍎🤖🔁 [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Open source alternative to Notion. Supports macOS, Windows, Linux, iOS, and Android. `AGPL-3.0` `Flutter/Dart`
 - 📕 [Cherrytree](http://www.giuspen.com/cherrytree) - A hierarchical note-taking app featuring rich text and syntax highlighting. `GPL-3.0` `Qt/C++`
