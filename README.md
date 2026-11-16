@@ -151,6 +151,7 @@
 
 ## Proprietary
 
+- 📕🔁 [3DMindNet](https://3dmindnet.com/) - Web app that lays out notes as a 3D graph (groups become clusters, typed links become edges), with optional two-way Notion sync and embed. Free during early access.
 - 📖🍎 [Bear](https://bear.app/) - Beautiful, flexible writing app for notes and prose. Apple platforms only (Mac, iPhone, iPad). Sync via iCloud with Bear Pro.
 - 📕🍎🤖🔁 [Capacities](https://capacities.io/) - Object-based note-taking app for networked thinking. Available on macOS, Windows, Linux, web, iOS, and Android.
 - 📕🍎🤖🔁 [Craft](https://www.craft.do/) - Beautiful native document editor for Mac, iPad, iPhone, Android, and Windows with real-time collaboration.
